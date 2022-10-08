@@ -1,6 +1,5 @@
 baseURL: 'https://swecov.se/'
 languageCode: 'en-us'
-relativeURLS: true
 
 title: 'SWECOV'
 params:
