@@ -1,0 +1,15 @@
+baseURL: 'https://swecov.se/'
+languageCode: 'en-us'
+relativeURLS: true
+
+title: 'SWECOV'
+params:
+  institution: 'Stockholm university'
+  subtitle: 'Swedish COVID-19 Research'
+  description: 'The Register-Based Research Program On COVID-19 In Sweden is a multidisciplinary research program using data-driven empirical methods to better understand the consequences of the pandemic in Sweden.'
+  icon: 'virus-covid'
+
+module:
+  imports:
+    - path: github.com/adamaltmejd/research_project_theme
+
