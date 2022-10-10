@@ -7,6 +7,12 @@ params:
   subtitle: 'Swedish COVID-19 Research'
   description: 'The Register-Based Research Program On COVID-19 In Sweden is a multidisciplinary research program using data-driven empirical methods to better understand the consequences of the pandemic in Sweden.'
   icon: 'virus-covid'
+  primary_color: '#045E8B'
+  secondary_color: '#ABD8ED'
+  warning_color: '#FFB703'
+  success_color: '#BCD160'
+  info_color: '#219EBC'
+  danger_color: '#FB8500'
 
 module:
   imports:

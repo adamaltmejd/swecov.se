@@ -37,7 +37,7 @@ Make sure that your application document answers the questions in the following 
   5.	Who will be the responsible researcher?
   6.	Which are the other participating researchers who require access to data? Please motivate each instance of required data access.
 
-The program’s steering committee – its current members are found below – meets four times per year. On these occasions, the committee will evaluate new project applications. The committee will decide whether or not the proposed project falls under the general questions of the program – as operationalized by the program's ethical permission – and if the proposal is of sufficient scientific merit.
+The program’s steering committee – its current members are found [here](../aboutus/) – meets four times per year. On these occasions, the committee will evaluate new project applications. The committee will decide whether or not the proposed project falls under the general questions of the program – as operationalized by the program's ethical permission – and if the proposal is of sufficient scientific merit.
 
 Applicants are encouraged to contact the program coordinators when preparing their applications to ask general questions and get access to the ethical permission. We will not provide any advance notices about participation. But the coordinators can give advice on appropriate formulations to those who wish to mention prospective program participation in a funding application.
 
@@ -45,4 +45,4 @@ We will look positively on multidisciplinary projects, but a project that spans 
 
 The following research principals participate in the project: Stockholm university. All researchers with data access need to be employed at one of these institutions. Should your institution not be listed, contact the program coordinators for further instructions.
 
-New program participants will have to agree with specific conditions. These include a specification of the exact data used, a project time plan, and rules for co-authorship. Participants will also be expected to work actively on the project, starting directly. This is in order to ensure that the research carried out corresponds to the application and that the research that has been approved is carried out.
+New program participants will have to agree with specific conditions. These include a specification of the exact data used, a project time plan, and rules for co-authorship. Participants will also be expected to work actively on the project, starting right away. This is in order to ensure that the research carried out corresponds to the application and that the research that has been approved is carried out.
