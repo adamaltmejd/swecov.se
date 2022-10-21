@@ -5,8 +5,9 @@ title: 'SWECOV'
 params:
   institution: 'Stockholm university'
   subtitle: 'Swedish COVID-19 Research'
-  description: 'The Register-Based Research Program On COVID-19 In Sweden is a multidisciplinary research program using data-driven empirical methods to better understand the consequences of the pandemic in Sweden.'
-  icon: 'virus-covid'
+  description: 'The Swedish Register-based Research Program on COVID-19 is a multidisciplinary research program using data-driven empirical methods to better understand the consequences of the pandemic.'
+  brand_icon: true
+  favicon: 'virus-covid'
   primary_color: '#045E8B'
   secondary_color: '#ABD8ED'
   warning_color: '#FFB703'

@@ -1,9 +1,8 @@
-github.com/adamaltmejd/research_project_theme v0.0.0-20221008105812-e7c024249eb8 h1:ATLyRWMvbFLs4AWVjntacsgpBqdNOPxAesoF0a7+iAM=
-github.com/adamaltmejd/research_project_theme v0.0.0-20221008105812-e7c024249eb8/go.mod h1:v8OZaTkiaNJeZrPjES82rqtuSy6e99GFGGzd9cvVxZE=
-github.com/adamaltmejd/research_project_theme v1.0.0 h1:Wb9rm8Yz5ci21eO+OrSewKEasAbpSQURHjMGJMiViMY=
-github.com/adamaltmejd/research_project_theme v1.0.0/go.mod h1:v8OZaTkiaNJeZrPjES82rqtuSy6e99GFGGzd9cvVxZE=
-github.com/adamaltmejd/research_project_theme v1.0.1 h1:b85bckJB8D0WfaRnp0mr1r5l7zHDdvedSPf9mt1WoFw=
-github.com/adamaltmejd/research_project_theme v1.0.1/go.mod h1:v8OZaTkiaNJeZrPjES82rqtuSy6e99GFGGzd9cvVxZE=
+github.com/FortAwesome/Font-Awesome v0.0.0-20220831210243-d3a7818c253f/go.mod h1:IUgezN/MFpCDIlFezw3L8j83oeiIuYoj28Miwr/KUYo=
+github.com/adamaltmejd/hugo-icons v0.0.0-20221021140430-7267d5f8ed27 h1:GkjvRVSwjcznIazEyJ9A1DQ/MsZie68GwXv9CUjK7TE=
+github.com/adamaltmejd/hugo-icons v0.0.0-20221021140430-7267d5f8ed27/go.mod h1:jPtm4lPrjOJcxPS6Bay3amRmfnHug4mrLUdspAEJcpI=
+github.com/adamaltmejd/research_project_theme v1.0.2 h1:HtX0+EKAscXnHENRUGpzMNsuWAzibCzOSSWGpZ8wlY4=
+github.com/adamaltmejd/research_project_theme v1.0.2/go.mod h1:v8OZaTkiaNJeZrPjES82rqtuSy6e99GFGGzd9cvVxZE=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20200.20100 h1:YfBUWb8p0QBkMjabA6bFhhzwbz37SBVW7b7OUCFgZUE=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20200.20100/go.mod h1:Z5Bhe4pfn8reoHhWqCQMWEAynLCIeBAt1TDwni4fipM=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
