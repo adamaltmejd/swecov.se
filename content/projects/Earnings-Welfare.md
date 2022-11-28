@@ -3,7 +3,7 @@ title: "Earnings losses and the role of the welfare state during the COVID-19 pa
 date: 2022-10-21T15:44:04+02:00
 draft: false
 status: 'Ongoing'
-url:
+paper_url: 'https://docs.iza.org/dp15662.pdf'
 authors:
   - 'Adrian Adermon'
   - 'Lisa Laun'
