@@ -14,7 +14,7 @@ menu:
 
 ## Background
 
-The broad purpose of SWECOV (the Swedish Register-based Research Program on COVID-19) is to answer three research questions:
+The broad purpose of SWECOV (the Swedish Register-based Research Program on COVID-19) is to answer two research questions:
 
   1. What are the consequences of COVID-19 – as well as the interventions and reforms implemented to stop the spread of the virus – on public health, in terms of mortality and morbidity, but also on psychological and physiological well-being more broadly?
   2. What are the consequences of the pandemic – as well as the interventions and reforms implemented to stop the spread of the virus – on central social and economic outcomes, such as jobs, income, and equality?
