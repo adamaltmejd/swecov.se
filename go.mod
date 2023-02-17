@@ -7,6 +7,6 @@ go 1.19
 
 require (
 	github.com/adamaltmejd/hugo-icons v0.0.0-20221021140430-7267d5f8ed27 // indirect
-	github.com/adamaltmejd/research_project_theme v1.0.3 // indirect
-	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20200.20100 // indirect
+	github.com/adamaltmejd/research_project_theme v1.0.4 // indirect
+	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20200.20101 // indirect
 )

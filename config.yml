@@ -10,8 +10,8 @@ params:
   favicon: 'virus-covid'
   primary_color: '#045E8B'
   secondary_color: '#ABD8ED'
-  warning_color: '#FFB703'
-  success_color: '#BCD160'
+  warning_color: '#FFCC4C'
+  success_color: '#A0E68E'
   info_color: '#219EBC'
   danger_color: '#FB8500'
 
@@ -19,3 +19,4 @@ module:
   imports:
     - path: github.com/adamaltmejd/research_project_theme
 
+paginate: 5

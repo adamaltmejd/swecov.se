@@ -5,7 +5,11 @@ github.com/adamaltmejd/research_project_theme v1.0.2 h1:HtX0+EKAscXnHENRUGpzMNsu
 github.com/adamaltmejd/research_project_theme v1.0.2/go.mod h1:v8OZaTkiaNJeZrPjES82rqtuSy6e99GFGGzd9cvVxZE=
 github.com/adamaltmejd/research_project_theme v1.0.3 h1:N/RFbktrqxBPyxEOuKHwBY96EuNCUCyKX6tBu1FPEeo=
 github.com/adamaltmejd/research_project_theme v1.0.3/go.mod h1:v8OZaTkiaNJeZrPjES82rqtuSy6e99GFGGzd9cvVxZE=
+github.com/adamaltmejd/research_project_theme v1.0.4 h1:GVECgfqD45NyhcSwgRDCsvtOYvgYmG33rDmmGFY9/bA=
+github.com/adamaltmejd/research_project_theme v1.0.4/go.mod h1:KpTLIg/+Jz3VTmk2vNEK1EMnrfDwaCBpiMX/egrs4Ts=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20200.20100 h1:YfBUWb8p0QBkMjabA6bFhhzwbz37SBVW7b7OUCFgZUE=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20200.20100/go.mod h1:Z5Bhe4pfn8reoHhWqCQMWEAynLCIeBAt1TDwni4fipM=
+github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20200.20101 h1:wUe8RXjpJYs83CucuWJT7XuqCzQ52f5/N7zlV8woHEg=
+github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20200.20101/go.mod h1:Z5Bhe4pfn8reoHhWqCQMWEAynLCIeBAt1TDwni4fipM=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
 github.com/twbs/bootstrap v5.2.1+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
