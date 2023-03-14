@@ -3,7 +3,7 @@ title: "Predicting disease transmission dynamics during early phases of pandemic
 date: 2023-02-15T10:20:35+01:00
 draft: false
 status: 'Ongoing'
-paper_url:
+paper_url: ''
 authors:
   - 'Dominik Dietler'
   - 'Thomas Eriksson'
