@@ -11,9 +11,14 @@ github.com/adamaltmejd/research_project_theme v1.0.5 h1:bQy9UiHjg/4wH76LMkbu6IZG
 github.com/adamaltmejd/research_project_theme v1.0.5/go.mod h1:3HeFLOWy902+OEgUDRBvy/VAfW6VmW368YOA4jr/0Ik=
 github.com/adamaltmejd/research_project_theme v1.0.6 h1:clU/OZDbVDQ4xFMrg0+n699qGuLGosHaIsas1lLgpF0=
 github.com/adamaltmejd/research_project_theme v1.0.6/go.mod h1:3HeFLOWy902+OEgUDRBvy/VAfW6VmW368YOA4jr/0Ik=
+github.com/adamaltmejd/research_project_theme v1.0.7 h1:Safp5sBHTGA8hd2R8tCG1nnXKxd9c99cNnFFTGcK51Q=
+github.com/adamaltmejd/research_project_theme v1.0.7/go.mod h1:8fsa17qXKYaMewpLXPog/5fASNu6dG6PnNvSDcrwIfI=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20200.20100 h1:YfBUWb8p0QBkMjabA6bFhhzwbz37SBVW7b7OUCFgZUE=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20200.20100/go.mod h1:Z5Bhe4pfn8reoHhWqCQMWEAynLCIeBAt1TDwni4fipM=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20200.20101 h1:wUe8RXjpJYs83CucuWJT7XuqCzQ52f5/N7zlV8woHEg=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20200.20101/go.mod h1:Z5Bhe4pfn8reoHhWqCQMWEAynLCIeBAt1TDwni4fipM=
+github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20001 h1:xkJJPlzmGxKitnbJHlm7ARK7OJvWsglcM0FbzHS2Neg=
+github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20001/go.mod h1:QKCtI6xnS1xr+zaQyVR8KF4Ec1UvErhvsazehZj/MlI=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
 github.com/twbs/bootstrap v5.2.1+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
+github.com/twbs/bootstrap v5.3.0-alpha2+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
