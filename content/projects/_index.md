@@ -1,8 +1,8 @@
 ---
-title: Projects
+title: Studies
 menu:
   main:
-    identifier: "Projects"
+    identifier: "Studies"
     weight: 100
     parent: ""
 ---
