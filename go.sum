@@ -17,6 +17,8 @@ github.com/adamaltmejd/research_project_theme v1.0.8 h1:ggOuRWqgB8cvyKl1wulhA6kH
 github.com/adamaltmejd/research_project_theme v1.0.8/go.mod h1:8fsa17qXKYaMewpLXPog/5fASNu6dG6PnNvSDcrwIfI=
 github.com/adamaltmejd/research_project_theme v1.0.9 h1:nPwx7GSDnYtgxq+UwERfl0UsqdZHi4VbMcflszsCD7g=
 github.com/adamaltmejd/research_project_theme v1.0.9/go.mod h1:RrFcBos0E6+hYpCLr9CPZRKmLPxVAXZhmzfQriCL9ZY=
+github.com/adamaltmejd/research_project_theme v1.0.10 h1:VTEcyJybip0DK3IZPFKWjbFtJJ0YLlKkHWdgY9lP+Cw=
+github.com/adamaltmejd/research_project_theme v1.0.10/go.mod h1:RrFcBos0E6+hYpCLr9CPZRKmLPxVAXZhmzfQriCL9ZY=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20200.20100 h1:YfBUWb8p0QBkMjabA6bFhhzwbz37SBVW7b7OUCFgZUE=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20200.20100/go.mod h1:Z5Bhe4pfn8reoHhWqCQMWEAynLCIeBAt1TDwni4fipM=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20200.20101 h1:wUe8RXjpJYs83CucuWJT7XuqCzQ52f5/N7zlV8woHEg=
