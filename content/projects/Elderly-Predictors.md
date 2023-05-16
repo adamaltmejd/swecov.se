@@ -1,5 +1,5 @@
 ---
-title: "Predictors of COVID-19 outcomes among residents of Swedish long-term care facilities – a nationwide study of the year 2020"
+title: "Predictors of COVID-19 outcomes among residents of Swedish long-term care facilities—a nationwide study of the year 2020"
 date: 2023-02-08T10:49:16+01:00
 draft: false
 status: 'Published'
@@ -12,7 +12,7 @@ authors:
   - 'Carl Dahlström'
 ---
 
-# Predictors of COVID-19 outcomes among residents of Swedish long-term care facilities – a nationwide study of the year 2020
+# Predictors of COVID-19 outcomes among residents of Swedish long-term care facilities—a nationwide study of the year 2020
 
 **What is the primary question addressed by this study?** This study examines predictors for SARS-CoV-2 infection and COVID-19 death among residents of long-term care facilities (LTCFs), using Swedish nation-wide data for the whole pandemic year of 2020.
 
