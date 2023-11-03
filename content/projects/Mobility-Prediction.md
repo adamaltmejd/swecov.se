@@ -7,7 +7,7 @@ paper_url: ''
 authors:
   - 'Dominik Dietler'
   - 'Thomas Eriksson'
-  - 'Malin Inghammar'
+  - 'Carl Bonander'
   - 'Jonas Björk'
 ---
 
