@@ -19,4 +19,4 @@ module:
   imports:
     - path: github.com/adamaltmejd/research_project_theme
 
-paginate: 5
+paginate: 30
