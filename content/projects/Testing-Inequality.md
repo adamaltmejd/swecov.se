@@ -13,8 +13,6 @@ authors:
   - 'Karl Gauffin'
 ---
 
-# Understanding social inequalities in Covid-19 testing behavior
-
 Groups with lower socioeconomic status have suffered disproportionately from severe Covid-19. However, more cases were detected among individuals in higher socioeconomic positions. These seemingly conflicting observations are in part attributed to differences in testing behavior; individuals in lower socioeconomic positions in Sweden had lower testing rates and higher positivity rates compared to those in higher positions.
 
 The propensity to get tested can depend on several things. Some factors may motivate the individual to get tested while others can make the individual more likely to avoid taking a test. Here, we use register data to identify potential individual and structural factors that may influence testing behavior and evaluate if these contribute to socioeconomic differences in testing behavior.

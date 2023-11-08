@@ -4,6 +4,8 @@ github.com/adamaltmejd/hugo-icons v0.0.0-20221021140430-7267d5f8ed27 h1:GkjvRVSw
 github.com/adamaltmejd/hugo-icons v0.0.0-20221021140430-7267d5f8ed27/go.mod h1:jPtm4lPrjOJcxPS6Bay3amRmfnHug4mrLUdspAEJcpI=
 github.com/adamaltmejd/research_project_theme v1.0.12-0.20230516133717-fc8b7367e8e9 h1:frjxRfNs1Ht4sULOcQISrSRVYHMveCo0O5+ZnDQNwcY=
 github.com/adamaltmejd/research_project_theme v1.0.12-0.20230516133717-fc8b7367e8e9/go.mod h1:RrFcBos0E6+hYpCLr9CPZRKmLPxVAXZhmzfQriCL9ZY=
+github.com/adamaltmejd/research_project_theme v1.0.12 h1:WEiT+xAasnTXpRvalVUFq9SUAUxs5EhL7mElgPGrCVE=
+github.com/adamaltmejd/research_project_theme v1.0.12/go.mod h1:uwx/SUodLz4j3o1gGApf/lS1zqA6lktGI7ZlDEYuvW8=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20002 h1:6F6sjCSkFIIgqLp4SEIL1Ao9ZfKyM6OmgqEdTlc58Yk=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20002/go.mod h1:Q6TrjM78wB13zkOMBSV4IZIZ54tbshmE2fem9CYx2pU=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 h1:SmpwwN3DNzJWbV+IT8gaFu07ENUFpCvKou5BHYUKuVs=
