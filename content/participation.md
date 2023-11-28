@@ -10,8 +10,6 @@ menu:
     parent: ''
 ---
 
-# Application to participate
-
 ## Background
 
 The broad purpose of the SWECOV project (*Ett forskningsprogram om covid-19 i Sverige: Smittspridning, bekämpning och effekter på individer och samhälle*) is to answer two research questions:
