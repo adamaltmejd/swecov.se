@@ -1,6 +1,6 @@
 ---
 title: "Symptoms reported through the Swedish Healthcare Guide 1177 for disease surveillance and hospital predictions"
-date: 2023-04-27T09:26:59+02:00
+date: 2023-03-27T09:26:59+02:00
 draft: false
 status: 'Ongoing'
 paper_url: ''
@@ -18,9 +18,3 @@ Disease surveillance is crucial during a pandemic because it allows informed dec
   2. Development of an adaptive 7-14 days forecasting model for hospital admissions for respiratory infections using data from national health inquiry calls to Swedish Healthcare Guide 1177 phone-line.
 
 Preparation and evaluation of simplified analytical procedures for syndromic surveillance to apply in future epidemics will be a part of the study.
-
-This **project** is *really* cool. Markdown.
-
-## Headline 2
-
-### Headline 3
