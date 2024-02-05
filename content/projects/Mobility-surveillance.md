@@ -5,11 +5,11 @@ draft: false
 status: 'Ongoing'
 paper_url: ''
 authors:
-  - 'Dominik Dietler '
-  - 'Thomas Eriksson '
-  - 'Jonas Björk '
-  - 'Joacim Rocklöv '
-  - 'Henrik Sjödin '
+  - 'Dominik Dietler'
+  - 'Thomas Eriksson'
+  - 'Jonas Björk'
+  - 'Joacim Rocklöv'
+  - 'Henrik Sjödin'
 ---
 
 Disease transmission models can provide valuable information for decision makers on the likely future spread of SARS-CoV-2 under different policy scenarios. We aim to integrate real-world mobility data - a key factor affecting social contact patterns – into surveillance models.
