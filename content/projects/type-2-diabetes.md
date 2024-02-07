@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 and type 2 diabetes incidence and severity across migration status"
-date: 2023-02-07T09:26:59+02:00
+date: 2024-02-07T09:26:59+02:00
 draft: false
 status: 'Ongoing'
 paper_url: ''
