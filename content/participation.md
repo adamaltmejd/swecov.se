@@ -1,4 +1,8 @@
 ---
+<div style="text-align: center;">
+    <img src="/img/SWECOV_2024_1.jpg" alt="SWECOV 2024 participants" style="width:100%; max-width:600px;">
+    <p style="font-style: italic; color: #555;">2024 workshop participants. Vår Gård, Saltsjöbaden.</p>
+</div>
 title: 'Application to participate in SWECOV'
 date: 2022-10-06T14:15:20+02:00
 draft: false
