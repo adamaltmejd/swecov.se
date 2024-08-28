@@ -9,12 +9,6 @@ menu:
     weight: 200
     parent: ""
 ---
-<div style="text-align: center;">
-    <img src="/img/SWECOV_2024_1.jpg" alt="SWECOV 2024 participants" style="width:100%; max-width:600px;">
-    <p style="font-style: italic; color: #555;">2024 workshop participants. Vår Gård, Saltsjöbaden.</p>
-</div>
-
-## Application to participate in SWECOV
 ## Background
 
 The broad purpose of the SWECOV project (*Ett forskningsprogram om covid-19 i Sverige: Smittspridning, bekämpning och effekter på individer och samhälle*) is to answer two research questions:
