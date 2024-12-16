@@ -5,7 +5,7 @@ draft: false
 status: 'Ongoing'
 paper_url: ''
 authors:
-  - 'Ulf. O. Gustafsson '
+  - 'Ulf. O. Gustafsson'
   - 'Emily Maresch'
   - 'Helena Nordenstedt'
   - 'Maxim Kan'
