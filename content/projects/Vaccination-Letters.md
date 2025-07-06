@@ -1,9 +1,9 @@
 ---
 title: "Pre-Booked Appointment Letters for Increasing Vaccination Coverage in Target Populations"
-date: 2023-04-26T15:58:35+02:00
+date: 2025-07-07 T00:44:00+02:00
 draft: false
-status: 'Ongoing'
-paper_url: ''
+status: 'Published'
+paper_url: 'https://academic.oup.com/eurpub/advance-article/doi/10.1093/eurpub/ckaf097/8172042?utm_source=advanceaccess&utm_campaign=eurpub&utm_medium=email'
 authors:
   - 'Tove Fall'
   - 'Georgios Varotsis'
