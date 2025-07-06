@@ -1,6 +1,6 @@
 ---
 title: "Pre-Booked Appointment Letters for Increasing Vaccination Coverage in Target Populations"
-date: 2025-07-07 T00:44:00+02:00
+date: 2025-07-07T00:46:00+02:00
 draft: false
 status: 'Published'
 paper_url: 'https://academic.oup.com/eurpub/advance-article/doi/10.1093/eurpub/ckaf097/8172042?utm_source=advanceaccess&utm_campaign=eurpub&utm_medium=email'
