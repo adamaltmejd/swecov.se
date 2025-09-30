@@ -2,8 +2,8 @@
 title: "Surveillance of disease outbreaks using health counselling data linked with registers"
 date: 2024-02-07T08:26:59+02:00
 draft: false
-status: 'Ongoing'
-paper_url: ''
+status: 'Published'
+paper_url: 'https://www.nature.com/articles/s41598-025-20641-2'
 authors:
   - 'Jonas Björk'
   - 'Dominik Dietler'
