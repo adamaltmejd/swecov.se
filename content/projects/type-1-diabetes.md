@@ -2,7 +2,7 @@
 title: "Incidence of Type-1-Diabetes before and during the COVID-19 pandemic"
 date: 2024-02-07T07:00:59+02:00
 draft: false
-status: 'Ongoing'
+status: 'Published'
 paper_url: 'https://link.springer.com/article/10.1007/s00125-025-06540-1'
 authors:
   - 'Annelie Carlsson'
