@@ -2,7 +2,7 @@
 title: "Exploring Health System Resilience of Essential Health Services During COVID-19 in Sweden: A Cross-Regional Analysis within Socioeconomic Context"
 date: 2023-11-12T20:20:47+01:00
 draft: false
-status: 'Ongoing'
+status: 'Published'
 paper_url: 'https://doi.org/10.1186/s12913-025-13551-6'
 authors:
   - 'Helena Nordenstedt'
