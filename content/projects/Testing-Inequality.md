@@ -2,8 +2,8 @@
 title: "Understanding social inequalities in Covid-19 testing behavior"
 date: 2023-03-14T11:42:23+01:00
 draft: false
-status: 'Ongoing'
-paper_url: ''
+status: 'Published'
+paper_url: 'https://link.springer.com/article/10.1007/s10654-025-01321-x'
 authors:
   - 'Olof Östergren'
   - 'Arizo Karimi'
