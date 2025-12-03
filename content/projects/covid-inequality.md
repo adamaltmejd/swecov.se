@@ -2,7 +2,7 @@
 title: "Inequality and COVID-19 in Sweden: Relative risks of nine bad life events, by four social gradients, in pandemic vs. prepandemic years"
 date: 2023-11-10T09:00:00
 draft: false
-status: "Published"
+status: 'Published'
 paper_url: 'https://www.pnas.org/doi/10.1073/pnas.2303640120'
 authors:
     - 'Adam Altmejd'

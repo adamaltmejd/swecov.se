@@ -1,8 +1,8 @@
 module github.com/adamaltmejd/swecov.se
 
-go 1.20
+go 1.25
 
-// replace github.com/adamaltmejd/research_project_theme => /Users/adam/Code/swecov_website/research_project_theme
+replace github.com/adamaltmejd/research_project_theme => /Users/adam/Code/swecov_website/research_project_theme
 
 require (
 	github.com/adamaltmejd/research_project_theme v1.0.14 // indirect

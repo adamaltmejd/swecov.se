@@ -14,6 +14,8 @@ params:
   success_color: '#A0E68E'
   info_color: '#219EBC'
   danger_color: '#FB8500'
+  homePageFilter:  # Filter by status field (case-insensitive). Remove to show all.
+    - 'Published'
 
 module:
   imports:
@@ -21,3 +23,9 @@ module:
 
 pagination:
   pagerSize: 30
+
+outputs:
+  section:
+    - html
+    - rss
+    - json
