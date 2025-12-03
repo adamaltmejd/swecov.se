@@ -3,7 +3,7 @@ title: "The Odd One Out—Life and Death in Sweden During the COVID-19 Pandemic"
 date: 2025-11-11T23:53:00+02:00
 draft: false
 status: 'Published'
-paper_url: 'https://doi-org.ezp.sub.su.se/10.1007/978-3-031-99349-7_10'
+paper_url: 'https://link.springer.com/chapter/10.1007/978-3-031-99349-7_10'
 authors:
   - 'Olof Östergren'
 ---
