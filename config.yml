@@ -6,7 +6,7 @@ params:
   institution: 'Stockholm university'
   subtitle: 'Swedish COVID-19 Research'
   description: 'The Swedish Register-based Research Project on COVID-19 is a multidisciplinary research project using data-driven empirical methods to better understand the consequences of the pandemic.'
-  brand_icon: true
+  brand_icon: 'virus-covid'
   favicon: 'virus-covid'
   primary_color: '#045E8B'
   secondary_color: '#ABD8ED'
