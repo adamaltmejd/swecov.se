@@ -3,6 +3,6 @@ title: Studies
 menu:
   main:
     identifier: "Studies"
-    weight: 100
+    weight: 300
     parent: ""
 ---

@@ -4,9 +4,9 @@ date: "2022-10-06T14:15:20+02:00"
 draft: false
 menu:
   main:
-    name: "Participation"
-    identifier: "participation"
-    weight: 200
+    name: "Join us"
+    identifier: "joinus"
+    weight: 400
     parent: ""
 ---
 ## Background
