@@ -3,7 +3,7 @@ title: "Exploring Pandemic-Era Inequalities in Pregnancy Outcomes: An Intersecti
 date: 2025-09-22T00:00:00+02:00
 draft: false
 status: 'Ongoing'
-paper_url: ''
+subject: ['Inequality', 'Pregnancy', 'Migration']
 authors:
   - 'Maxim Kan'
   - 'Anne Örtqvist'

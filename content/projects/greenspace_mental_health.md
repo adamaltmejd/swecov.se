@@ -3,7 +3,7 @@ title: "Was residential nature access a protective factor for the development of
 date: 2024-12-17T00:37:00+02:00
 draft: false
 status: 'Ongoing'
-paper_url: ''
+subject: ['Mental Health']
 authors:
   - 'Olof Östergren'
   - 'Cecilia Stenfors'

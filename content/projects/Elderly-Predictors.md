@@ -1,10 +1,12 @@
 ---
-title: "Predictors of COVID-19 outcomes among residents of Swedish long-term care facilities—a nationwide study of the year 2020"
-date: 2023-02-08T10:49:16+01:00
+title: "Predictors of COVID-19 Outcomes Among Residents of Swedish Long-Term Care Facilities–A Nationwide Study of the Year 2020"
+date: 2023-06-08T10:49:16+01:00
 draft: false
 status: 'Published'
+subject: ['Long-term Care']
 paper_url: 'https://www.sciencedirect.com/science/article/pii/S1064748123001616'
 journal: 'The American Journal of Geriatric Psychiatry'
+publication_date: 2023-06
 authors:
   - 'Jenna Najar'
   - 'Rasmus Broms'

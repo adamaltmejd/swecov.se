@@ -3,7 +3,7 @@ title: "Inequalities in mortality going in and out of the pandmic: The contribut
 date: 2023-11-03T16:00:50+01:00
 draft: false
 status: 'Ongoing'
-paper_url: ''
+subject: ['Inequality', 'Education']
 authors:
   - 'Olle Lundberg'
   - 'Olof Östergren'

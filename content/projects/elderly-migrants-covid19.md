@@ -3,7 +3,7 @@ title: "Do migrants have a mortality disadvantage in the care setting? Living ar
 date: 2024-02-05T15:49:00+02:00
 draft: false
 status: 'Ongoing'
-paper_url: ''
+subject: ['Long-term Care', 'Inequality', 'Migration']
 authors:
   - 'Eleonora Mussino'
   - 'Sol Juarez'

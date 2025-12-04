@@ -3,7 +3,7 @@ title: "The Impact of the COVID-19 Pandemic on the Surgical Treatment of Colorec
 date: 2023-11-08T10:20:35+01:00
 draft: false
 status: 'Ongoing'
-paper_url: ''
+subject: ['Oncology']
 authors:
   - 'Anders Hansson Elliot'
   - 'AnnaMia Ekström'

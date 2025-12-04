@@ -3,7 +3,7 @@ title: "Did more generous unemployment insurance benefits contribute to worker r
 date: 2023-11-08T00:07:00+02:00
 draft: false
 status: 'Ongoing'
-paper_url: ''
+subject: ['Social Policy']
 authors:
   - 'Jan Sauermann'
   - 'Olle Törnquist'

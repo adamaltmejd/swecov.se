@@ -3,7 +3,7 @@ title: "The effects of COVID-19 vaccination on cardiovascular outcomes: an analy
 date: 2024-05-31T14:19:00+02:00
 draft: false
 status: 'Ongoing'
-paper_url: ''
+subject: ['Vaccination', 'Cardiovascular Disease']
 authors:
   - 'Anton Nilsson'
   - 'Carl Bonander'

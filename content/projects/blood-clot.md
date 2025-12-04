@@ -3,7 +3,7 @@ title: "The Costs of Narratives in Public Health: How Inaccurate Information Sha
 date: 2025-05-28T00:20:00+02:00
 draft: false
 status: 'Ongoing'
-paper_url: ''
+subject: ['Vaccination']
 authors:
   - 'Jonatan Riberth'
   - 'Svenja Miltner'

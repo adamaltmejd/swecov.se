@@ -3,7 +3,7 @@ title: "Medical scandals and vaccine hesitancy "
 date: 2023-11-03T15:36:13+01:00
 draft: false
 status: 'Ongoing'
-paper_url: ''
+subject: ['Vaccination']
 authors:
   - 'Svenja Miltner'
   - 'Jonatan Riberth'

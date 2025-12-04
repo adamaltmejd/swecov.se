@@ -3,7 +3,7 @@ title: "Civic Capital, Crisis, and Health Behaviours during the Covid-19 Pandemi
 date: 2024-01-29T10:55:30+02:00
 draft: false
 status: 'Ongoing'
-paper_url: ''
+subject: ['Inequality']
 authors:
   - 'Olof Östergren'
   - 'Bartholomew Konechni'

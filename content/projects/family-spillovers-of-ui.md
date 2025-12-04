@@ -3,7 +3,7 @@ title: "How does unemployment insurance protect the families of workers who lose
 date: 2023-11-08T00:07:00+02:00
 draft: false
 status: 'Ongoing'
-paper_url: ''
+subject: ['Social Policy']
 authors:
   - 'Anna Sjögren'
   - 'Lisa Laun'

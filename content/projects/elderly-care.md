@@ -1,14 +1,19 @@
 ---
-title: "Covid-19 in Swedish elderly care – the impact of health- and social care services on mortality in nursing homes"
-date: 2023-06-01T00:00:00+01:00
+title: "Variation in emergency department visits among residents of Swedish nursing homes between 2019 and 2020, a population-based cohort study"
+date: 2025-09-10T00:00:00+01:00
 draft: false
 status: 'Published'
-paper_url: 'https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-025-13443-9#citeas'
+subject: []
+paper_url: 'https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-025-13443-9'
+journal: 'BMC Health Services Research'
+publication_date: 2025-09-10
 authors:
-  - 'Ulrika Winblad'
-  - 'Wilhelm Linder'
-  - 'Douglas Spangler'
-  - 'David Isaksson'
+  - Wilhelm Linder
+  - Douglas Spangler
+  - Megan Doheny
+  - Alfons Grönström
+  - David Isaksson
+  - Ulrika Winblad
 ---
 
 Nursing homes (NHs, SÄBO) and their residents were severely affected by the covid-19 pandemic with NH-residents (approximately 1% of the Swedish population) constituting approximately 40% of covid-19 related deaths. As the share of older individuals are increasing in Sweden, research on elderly care will be of uttermost importance in order to protect the elderly from future epi- and pandemics.  This project relates to previous work by the Swedish Coronavirus Commission where data from SweCov was used to investigate covid-19 infections and mortality at Swedish NHs. Noticeably, two reports included in the preparatory documents from The Coronavirus Commission introduced a novel method for clustering individuals (and individual health data) to their respective NHs. In theory, structural factors of NHs (e.g. NH size) can affect both the covid-19 incidence and mortality (e.g. availability of nurses). Using this novel approach of selecting NH-residents using linked individual level data, Broms et al. reported that high NH staff turnover, lack of nurses, and larger NHs were associated with an increase in covid-19 infections and mortality.

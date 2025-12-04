@@ -3,7 +3,10 @@ title: "The Odd One Out—Life and Death in Sweden During the COVID-19 Pandemic"
 date: 2025-11-11T23:53:00+02:00
 draft: false
 status: 'Published'
+subject: ['Inequality']
 paper_url: 'https://link.springer.com/chapter/10.1007/978-3-031-99349-7_10'
+journal: 'Social Life during COVID-19 in France, Germany, Italy and the UK'
+publication_date: 2025-11-11
 authors:
   - 'Olof Östergren'
 ---

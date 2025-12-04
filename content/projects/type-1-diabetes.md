@@ -1,9 +1,12 @@
 ---
-title: "Incidence of Type-1-Diabetes before and during the COVID-19 pandemic"
-date: 2024-02-07T07:00:59+02:00
+title: "Trends in type 1 diabetes incidence between 2007 and 2023 and their association with SARS-CoV-2 infection in a population-based matched cohort study among individuals under 30 years old in Sweden"
+date: 2025-01-01T07:00:59+02:00
 draft: false
 status: 'Published'
+subject: ['Diabetes']
 paper_url: 'https://link.springer.com/article/10.1007/s00125-025-06540-1'
+journal: 'Diabetologia'
+publication_date: '2025'
 authors:
   - 'Annelie Carlsson'
   - 'Dominik Dietler'

@@ -3,7 +3,7 @@ title: "Utility of real-world mobility data for surveillance of SARS-CoV-2 trans
 date: 2024-02-05T16:03:00+02:00
 draft: false
 status: 'Ongoing'
-paper_url: ''
+subject: ['Surveillance']
 authors:
   - 'Dominik Dietler'
   - 'Thomas Eriksson'

@@ -2,8 +2,8 @@
 title: "Explainable AI for Disease Outbreak Surveillance: Enhancing Transparency in Anomaly Detection Models"
 date: 2025-05-28T00:20:00+02:00
 draft: false
-status: 'Published'
-paper_url: 'https://www.nature.com/articles/s41598-025-20641-2'
+status: 'Ongoing'
+subject: ['Artificial Intelligence', 'Surveillance']
 authors:
   - 'Atiye Sadat Hashemi'
   - 'Yana Litinska'

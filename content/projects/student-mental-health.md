@@ -1,9 +1,12 @@
 ---
 title: "Remote Instruction and Student Mental Health. Swedish Evidence from the Pandemic"
-date: 2024-01-30T09:26:00+02:00
+date: 2024-11-30T09:26:00+02:00
 draft: false
 status: 'Published'
+subject: ['Education', 'Mental Health']
 paper_url: 'https://www.aeaweb.org/articles?id=10.1257/pol.20220699'
+journal: 'American Economic Journal: Economic Policy'
+publication_date: 2024-11
 authors:
   - 'Evelina Björkegren'
   - 'Helena Svaleryd '

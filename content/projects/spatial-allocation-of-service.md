@@ -3,7 +3,7 @@ title: "Did COVID-19 have lasting effects on the spatial allocation of local ser
 date: 2023-11-06T10:03:47+01:00
 draft: false
 status: 'Ongoing'
-paper_url: ''
+subject: ['Inequality']
 authors:
   - 'Oskar Nordström Skans'
   - 'Adam Gill'

@@ -3,6 +3,7 @@ title: "Symptoms reported through the Swedish Healthcare Guide 1177 for disease 
 date: 2023-03-27T09:26:59+02:00
 draft: false
 status: 'Ongoing'
+subject: ['Surveillance']
 paper_url: ''
 authors:
   - 'Tove Fall'

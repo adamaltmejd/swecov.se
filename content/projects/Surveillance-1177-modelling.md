@@ -3,7 +3,7 @@ title: "Integrating Individual-level Syndromic Surveillance Data in Infectious D
 date: 2025-05-28T00:20:00+02:00
 draft: false
 status: 'Ongoing'
-paper_url: ''
+subject: ['Surveillance']
 authors:
   - 'Shomaila Mazhar'
   - 'Dominik Dietler'

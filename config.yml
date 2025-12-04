@@ -14,8 +14,10 @@ params:
   success_color: '#A0E68E'
   info_color: '#219EBC'
   danger_color: '#FB8500'
-  homePageFilter:  # Filter by status field (case-insensitive). Remove to show all.
-    - 'Published'
+  study_filters:
+    - 'status'
+    - 'subject'
+  study_search: true
 
 module:
   imports:

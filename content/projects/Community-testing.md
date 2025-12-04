@@ -3,7 +3,7 @@ title: "Did community testing protect vulnerable groups from severe COVID-19 out
 date: 2024-12-17T00:07:00+02:00
 draft: false
 status: 'Ongoing'
-paper_url: ''
+subject: ['Testing']
 authors:
   - 'Jonas Björk'
   - 'Olof Östergren'

@@ -3,7 +3,7 @@ title: "Heterogeneous impacts of COVID-19 on incomes"
 date: 2023-11-08T12:49:06+01:00
 draft: false
 status: 'Ongoing'
-paper_url: ''
+subject: ['Inequality', 'Social Policy']
 authors:
   - 'Adrian Adermon'
   - 'Lisa Laun'

@@ -1,16 +1,25 @@
 ---
-title: "Pre-Booked Appointment Letters for Increasing Vaccination Coverage in Target Populations"
+title: "Effect of COVID-19 vaccination appointment letters on uptake by sociodemographic characteristics: a regression discontinuity analysis in Sweden, December 2020 to September 2021"
 date: 2025-07-07T00:46:00+02:00
 draft: false
+subject: ['Vaccination']
 status: 'Published'
 paper_url: 'https://academic.oup.com/eurpub/advance-article/doi/10.1093/eurpub/ckaf097/8172042?utm_source=advanceaccess&utm_campaign=eurpub&utm_medium=email'
+journal: 'European Journal of Public Health'
+publication_date: '2025-06-23'
 authors:
-  - 'Tove Fall'
-  - 'Georgios Varotsis'
-  - 'Carl Bonander'
-  - 'Anna Sarkadi'
-  - 'Helena Svaleryd'
-  - 'Ulf Hammar'
+  - Georgios Varotsis
+  - Ulf Hammar
+  - Carl Bonander
+  - Per Lundmark
+  - Beatrice Kennedy
+  - Maria F Gomez
+  - Mats Martinell
+  - Oliver J Dyar
+  - Anna Sarkadi
+  - Robert Kristiansson
+  - Helena Svaleryd
+  - Tove Fall
 ---
 
 Prevention is a key task for the healthcare system, as is provision of equitable healthcare for the whole population. Vulnerable groups for adverse outcomes of respiratory infections include the elderly, groups with low socioeconomic status (SES), and those living with certain chronic diseases, groups that traditionally have lower vaccination uptake rates. There is therefore a need to find tools that increase vaccination coverage among these groups. In Sweden, regional strategies have included vaccination buses and drop-in vaccinations. Nonetheless, these approaches may exclude individuals with lower literacy levels and rely on self-initiated appointments. In Uppsala County individual pre-scheduled appointment notifications for both dose 1 and dose 2 of the COVID-19 vaccine were sent by post to everyone ≥50 years and those aged 17-18. Those aged 18-49 years were informed only by SMS when they were eligible to self-book an appointment.

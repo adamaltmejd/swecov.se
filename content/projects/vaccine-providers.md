@@ -3,7 +3,7 @@ title: "The impact of private and public providers of vaccination"
 date: 2023-11-27T09:26:59+02:00
 draft: false
 status: 'Ongoing'
-paper_url: ''
+subject: ['Vaccination']
 authors:
   - 'Helena Svaleryd'
   - 'Jonas Vlachos'

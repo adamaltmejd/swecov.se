@@ -3,7 +3,7 @@ title: "Vaccine effectiveness identified from age cutoffs"
 date: 2024-04-27T12:30:03+02:00
 draft: false
 status: 'Ongoing'
-paper_url: ''
+subject: ['Vaccination']
 authors:
   - 'Adam Altmejd'
   - 'Dominik Dietler'

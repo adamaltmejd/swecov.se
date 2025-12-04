@@ -1,15 +1,18 @@
 ---
-title: "Understanding social inequalities in Covid-19 testing behavior"
-date: 2023-03-14T11:42:23+01:00
+title: "Who got tested and who got sick? Sociodemographic inequalities in COVID-19 testing and hospitalization among 1.48 million individuals in Sweden"
+date: 2025-10-27T11:42:23+01:00
 draft: false
 status: 'Published'
+subject: ['Testing']
 paper_url: 'https://link.springer.com/article/10.1007/s10654-025-01321-x'
+journal: 'European Journal of Epidemiology'
+publication_date: '2025-10-27'
 authors:
   - 'Olof Östergren'
-  - 'Arizo Karimi'
   - 'Emelie Counil'
-  - 'Jonas Björk'
+  - 'Arizo Karimi'
   - 'Tove Fall'
+  - 'Jonas Björk'
   - 'Karl Gauffin'
 ---
 

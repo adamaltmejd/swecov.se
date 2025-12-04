@@ -3,7 +3,7 @@ title: "Effect of the SARS-CoV-2 pandemic on population frailty"
 date: 2024-02-05T15:59:00+02:00
 draft: false
 status: 'Ongoing'
-paper_url: ''
+subject: ['Surveillance']
 authors:
   - 'Dominik Dietler'
   - 'Jonas Björk'

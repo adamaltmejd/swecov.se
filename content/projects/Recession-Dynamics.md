@@ -3,6 +3,7 @@ title: "Sweden's COVID-19 Recession: How Foreign and Domestic Infections Struck 
 date: 2022-12-02T17:35:29+01:00
 draft: false
 status: 'Ongoing'
+subject: ['Firms', 'Social Policy']
 paper_url: https://docs.iza.org/dp15408.pdf
 authors:
   - 'Anders Akerman'

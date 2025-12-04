@@ -3,7 +3,7 @@ title: "Mental health of COVID-19 patients and their family members"
 date: 2023-11-08T00:07:00+02:00
 draft: false
 status: 'Ongoing'
-paper_url: ''
+subject: ['Mental Health']
 authors:
   - 'Fang Fang'
   - 'Unnur Valdimarsdóttir'

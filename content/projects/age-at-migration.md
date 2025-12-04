@@ -3,7 +3,7 @@ title: "Age at migration and COVID-19"
 date: 2023-11-06T10:02:53+01:00
 draft: false
 status: 'Ongoing'
-paper_url: ''
+subject: ['Inequality', 'Migration']
 authors:
   - 'Oskar Nordström Skans'
   - 'Olof Åslund'

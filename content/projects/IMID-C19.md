@@ -3,7 +3,7 @@ title: "The Impact of COVID-19 Vaccinations and COVID-19 infections on Immune-Me
 date: 2024-12-17T00:33:00+02:00
 draft: false
 status: 'Ongoing'
-paper_url: ''
+subject: ['Vaccination']
 authors:
   - 'Ulf. O. Gustafsson'
   - 'Emily Maresch'
