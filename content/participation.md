@@ -1,6 +1,5 @@
 ---
 title: Join SWECOV
-date: "2022-10-06T14:15:20+02:00"
 draft: false
 ---
 
