@@ -4,7 +4,7 @@ date: 2023-06-08T10:49:16+01:00
 draft: false
 status: 'Published'
 subject: ['Long-term Care']
-paper_url: 'https://www.sciencedirect.com/science/article/pii/S1064748123001616'
+paper_url: 'https://pubmed.ncbi.nlm.nih.gov/36863972/'
 journal: 'The American Journal of Geriatric Psychiatry'
 publication_date: 2023-06
 authors:

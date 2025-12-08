@@ -1,4 +1,5 @@
 ---
+title: Join SWECOV
 date: "2022-10-06T14:15:20+02:00"
 draft: false
 ---
@@ -8,15 +9,15 @@ If you wish to participate in the SWECOV project as a researcher, and study topi
 Make sure that your application answers all of the following questions:
 
   1. What is the purpose of your study and how does it relate to the goals of the SWECOV project?
-  2. Is your study consistent with the prevailing ethical permission of the project both with respect to research question and used methods (see below)? Make sure to motivate your answer.
+  2. Is your study consistent with the prevailing ethical permission of the project both with respect to research question and used methods? Make sure to motivate your answer. Contact the coordinators to get access to the latest ethical permission.
   3. How does your study relate to previous work on the topic and what is the scientific relevance of the specific question you would like to study?
   4. What is the expected research output of your study?
-  5. Who will be the researcher responsible for the study? The responsible researcher needs to be mentioned in SWECOV's ethical permission. If the responsible researcher is not someone already active in the project, please attach their CV.
-  6. Who are the other participating researchers who require access to data? Please name all involved researchers and motivate each instance of required data access. Also note the place of employment of each participant and if it is at one of the participating research principals (see below).
+  5. Who will be the researcher responsible for the study? The responsible researcher needs to be mentioned in SWECOV's ethical permission. If the responsible researcher is not mentioned, contact the coordinators and attach their CV to the application.
+  6. Who are the other participating researchers who require access to data through MONA? Please name all involved researchers and motivate each instance of required data access. Also note the place of employment of each participant and if it is at one of the participating research principals (see below).
 
-Before starting your application, read more about the purpose of SWECOV and the broad research questions that we strive to answer under [About us](/aboutus/). The SWECOV steering committee (its current members are found [here](/aboutus/#steeringgroup)) meets regularly and evaluates new study applications. The committee will decide whether or not the proposed study falls under the general questions of SWECOV—as operationalized by the project's ethical permission—and if the proposal is of sufficient scientific merit.
+Before starting your application, read more about the purpose of SWECOV and the broad research questions that we strive to answer under [About us](/aboutus/). The SWECOV steering board (its current members are found [here](/aboutus/#steeringgroup)) meets regularly and evaluates new study applications. The board will decide whether or not the proposed study falls under the general questions of SWECOV—as operationalized by the project's ethical permission—and if the proposal is of sufficient scientific merit.
 
-Applicants are encouraged to [contact the SWECOV coordinators](/aboutus/#coordinators) when preparing their applications to ask general questions and get access to the ethical permission. We will not provide any advance notice about participation, but the coordinators can give advice on appropriate formulations to those who wish to mention prospective SWECOV participation in a funding application.
+Applicants are encouraged to [contact the SWECOV coordinators](/aboutus/#coordinators) when preparing their application. We will not provide any advance notice about participation, but the coordinators can give advice on appropriate formulations to those who wish to mention prospective SWECOV participation in a funding application.
 
 We want to promote multidisciplinary studies within SWECOV, but a study that spans more than one discipline is not a prerequisite for application.
 
