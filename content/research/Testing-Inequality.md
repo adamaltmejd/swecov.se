@@ -1,5 +1,5 @@
 ---
-title: "Who got tested and who got sick? Sociodemographic inequalities in COVID-19 testing and hospitalization among 1.48 million individuals in Sweden"
+title: "Testing Inequalities"
 date: 2025-10-27T11:42:23+01:00
 draft: false
 status: 'Published'
@@ -15,6 +15,8 @@ authors:
   - 'Jonas Björk'
   - 'Karl Gauffin'
 ---
+
+# Who got tested and who got sick? Sociodemographic inequalities in COVID-19 testing and hospitalization among 1.48 million individuals in Sweden
 
 Groups with lower socioeconomic status have suffered disproportionately from severe Covid-19. However, more cases were detected among individuals in higher socioeconomic positions. These seemingly conflicting observations are in part attributed to differences in testing behavior; individuals in lower socioeconomic positions in Sweden had lower testing rates and higher positivity rates compared to those in higher positions.
 

@@ -1,5 +1,5 @@
 ---
-title: "Utility of real-world mobility data for surveillance of SARS-CoV-2 transmission during the first wave of the pandemic in Sweden"
+title: "Mobility Data Surveillance"
 date: 2024-02-05T16:03:00+02:00
 draft: false
 status: 'Ongoing'
@@ -11,6 +11,8 @@ authors:
   - 'Joacim Rocklöv'
   - 'Henrik Sjödin'
 ---
+
+# Utility of real-world mobility data for surveillance of SARS-CoV-2 transmission during the first wave of the pandemic in Sweden
 
 Disease transmission models can provide valuable information for decision makers on the likely future spread of SARS-CoV-2 under different policy scenarios. We aim to integrate real-world mobility data - a key factor affecting social contact patterns – into surveillance models.
 

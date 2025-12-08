@@ -1,5 +1,5 @@
 ---
-title: "Medical scandals and vaccine hesitancy "
+title: "Narcolepsy and Vaccine Hesitancy"
 date: 2023-11-03T15:36:13+01:00
 draft: false
 status: 'Ongoing'
@@ -8,6 +8,8 @@ authors:
   - 'Svenja Miltner'
   - 'Jonatan Riberth'
 ---
+
+# Medical scandals and vaccine hesitancy 
 
 In this project we consider the effects on vaccine hesitancy and health care utilization from an unusual medical scandal. Following the 2009–2010 swine flu pandemic, Sweden adopted a mass vaccination campaign where 60% of the Swedish population was vaccinated against the Swine flu. A number of individuals developed narcolepsy, a severe, incurable neurological disease, from the swine flu vaccine. We use individual level data on Covid and swine flu vaccinations to measure vaccine hesitancy during the Covid-19 pandemic among the affected individuals.
 

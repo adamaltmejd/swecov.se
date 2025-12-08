@@ -1,5 +1,5 @@
 ---
-title: "Sweden's COVID-19 Recession: How Foreign and Domestic Infections Struck against Firms and Workers"
+title: "Recession dynamics"
 date: 2022-12-02T17:35:29+01:00
 draft: false
 status: 'Ongoing'
@@ -11,6 +11,8 @@ authors:
   - 'Torsten Persson'
   - 'Oskar N. Skans'
 ---
+
+# Sweden's COVID-19 Recession: How Foreign and Domestic Infections Struck against Firms and Workers
 
 The COVID-19 pandemic had massive contractionary effects on most economies across the globe. However, the economic effects varied tremendously both within and across countries. We use highly granular Swedish micro-data to document the economic effects of the COVID-19 pandemic on Swedish private-sector firms and their workers.
 

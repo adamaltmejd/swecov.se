@@ -1,5 +1,5 @@
 ---
-title: "Vaccine effectiveness identified from age cutoffs"
+title: "Vaccine Effectiveness RDD"
 date: 2024-04-27T12:30:03+02:00
 draft: false
 status: 'Ongoing'
@@ -11,6 +11,8 @@ authors:
   - 'Torsten Persson'
   - 'Olof Östergren'
 ---
+
+# Vaccine effectiveness identified from age cutoffs
 
 The purpose of this project is to estimate how effectively COVID-19 vaccines prevent severe illness and death. Effectiveness, measured from real-world data, can differ from the efficacy numbers produced by clinical trials for several reasons. Mainly, people change their behavior once they are vaccinated, perhaps taking more risks of infecting themselves or passing on an infection onto others. The general population may also differ from trial participants in terms of age, comorbidities and simultaneous use of other pharmaceuticals that may moderate the effects of the vaccine.
 

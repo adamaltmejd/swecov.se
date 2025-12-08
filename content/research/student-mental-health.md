@@ -1,5 +1,5 @@
 ---
-title: "Remote Instruction and Student Mental Health. Swedish Evidence from the Pandemic"
+title: "Remote Learning Mental Health"
 date: 2024-11-30T09:26:00+02:00
 draft: false
 status: 'Published'
@@ -12,6 +12,8 @@ authors:
   - 'Helena Svaleryd '
   - 'Jonas Vlachos'
 ---
+
+# Remote Instruction and Student Mental Health. Swedish Evidence from the Pandemic
 
 In their efforts to mitigate the spread of COVID-19, most countries implemented school closures and transitioned to remote instruction. This raised concerns about a potential negative impact on student mental health. Sweden took a different approach by only closing upper-secondary schools. In March, students aged 17-19 in upper-secondary schools shifted to remote learning, while their lower-secondary counterparts, aged 14-16, continued with in-person classes. This unique situation in Sweden provided us with a natural experiment to study the effects of different instructional modes on student mental health.
 

@@ -1,5 +1,5 @@
 ---
-title: "Trends in type 1 diabetes incidence between 2007 and 2023 and their association with SARS-CoV-2 infection in a population-based matched cohort study among individuals under 30 years old in Sweden"
+title: "Type 1 Diabetes"
 date: 2025-01-01T07:00:59+02:00
 draft: false
 status: 'Published'
@@ -14,6 +14,8 @@ authors:
   - 'Louise Bennet'
   - 'Magnus Jöud'
 ---
+
+# Trends in type 1 diabetes incidence between 2007 and 2023 and their association with SARS-CoV-2 infection in a population-based matched cohort study among individuals under 30 years old in Sweden
 
 Type 1 diabetes is one of the most common chronic diseases in children. Sweden has the second-highest incidence in the world, after Finland. The etiology of the disease is mostly unknown, but type 1 diabetes is considered an autoimmune disease. Triggers for developing the disease include viral infections, increased growth, inactivity and obesity. A series of epidemiological studies have reported that the number of people with newly diagnosed type 1 diabetes increased during the COVID-19 epidemic. Some support the SARS-CoV-2 infection as such is behind the disease while other studies that also show an increase do not support any connections to an infection with SARS-CoV-2.
 

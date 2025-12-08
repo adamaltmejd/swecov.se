@@ -1,5 +1,5 @@
 ---
-title: "Exploring Health System Resilience of Essential Health Services During COVID-19 in Sweden: A Cross-Regional Analysis within Socioeconomic Context"
+title: "Health System Resilience"
 date: 2023-11-12T20:20:47+01:00
 draft: false
 status: 'Published'
@@ -16,6 +16,8 @@ authors:
   - Anna Mia Ekström
   - Helena Nordenstedt
 ---
+
+# Exploring Health System Resilience of Essential Health Services During COVID-19 in Sweden: A Cross-Regional Analysis within Socioeconomic Context
 
 The outbreak of the COVID-19 pandemic had a profound global impact, putting significant strain on health systems worldwide. Resources were redirected to combat the pandemic, leading to disruptions in non-COVID-19 related healthcare services. These disruptions could potentially have long-term health consequences for patients such as delayed and decreased prevention, diagnosis, and treatment of diseases which could possibly lead to a higher mortality and morbidity. During COVID-19, there was an abundance of regular health services that were out-crowded, resulting in interrupted or postponed services, which highlighted the importance of health systems’ ability to withstand such crises – this is also known as health system resilience.
 

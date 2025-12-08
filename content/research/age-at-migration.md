@@ -1,5 +1,5 @@
 ---
-title: "Age at migration and COVID-19"
+title: "Age at Migration"
 date: 2023-11-06T10:02:53+01:00
 draft: false
 status: 'Ongoing'
@@ -10,6 +10,8 @@ authors:
   - 'Erik Grönqvist'
   - 'Tram Pham'
 ---
+
+# Age at migration and COVID-19
 
 This project analyzes how age at migration affected outcomes and behavior during the most severe phases of the COVID-19 pandemic. The project focuses primarily on outcomes in adulthood among people who immigrated to Sweden as children (or who were born just after their parents arrived).
 

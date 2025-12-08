@@ -1,5 +1,5 @@
 ---
-title: "Effect of COVID-19 vaccination appointment letters on uptake by sociodemographic characteristics: a regression discontinuity analysis in Sweden, December 2020 to September 2021"
+title: "Vaccination Appointment Letters"
 date: 2025-07-07T00:46:00+02:00
 draft: false
 subject: ['Vaccination']
@@ -21,6 +21,8 @@ authors:
   - Helena Svaleryd
   - Tove Fall
 ---
+
+# Effect of COVID-19 vaccination appointment letters on uptake by sociodemographic characteristics: a regression discontinuity analysis in Sweden, December 2020 to September 2021
 
 Prevention is a key task for the healthcare system, as is provision of equitable healthcare for the whole population. Vulnerable groups for adverse outcomes of respiratory infections include the elderly, groups with low socioeconomic status (SES), and those living with certain chronic diseases, groups that traditionally have lower vaccination uptake rates. There is therefore a need to find tools that increase vaccination coverage among these groups. In Sweden, regional strategies have included vaccination buses and drop-in vaccinations. Nonetheless, these approaches may exclude individuals with lower literacy levels and rely on self-initiated appointments. In Uppsala County individual pre-scheduled appointment notifications for both dose 1 and dose 2 of the COVID-19 vaccine were sent by post to everyone ≥50 years and those aged 17-18. Those aged 18-49 years were informed only by SMS when they were eligible to self-book an appointment.
 

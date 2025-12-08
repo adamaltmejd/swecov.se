@@ -1,5 +1,5 @@
 ---
-title: "The Impact of the COVID-19 Pandemic on the Surgical Treatment of Colorectal Cancer Patients in Sweden"
+title: "COVID-19 and Colorectal Cancer Treatment"
 date: 2023-11-08T10:20:35+01:00
 draft: false
 status: 'Ongoing'
@@ -9,6 +9,8 @@ authors:
   - 'AnnaMia Ekström'
   - 'Ulf Gustafsson'
 ---
+
+# The Impact of the COVID-19 Pandemic on the Surgical Treatment of Colorectal Cancer Patients in Sweden
 
 In March 2020, during the initial phase of the COVID-19 pandemic, a significant portion of healthcare resources in Sweden and worldwide were redirected towards pandemic control. This also impacted surgical procedures, including those for imperative cases such as cancer and acute/subacute conditions. Some newly operated patients became infected with SARS-CoV-2, leading to perioperative deaths. This situation triggered a national and international debate on the criteria for performing surgeries during a pandemic. Various national perioperative guidelines were developed despite the lack of concrete evidence.
 

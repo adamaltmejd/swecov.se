@@ -1,5 +1,5 @@
 ---
-title: "Did community testing protect vulnerable groups from severe COVID-19 outcomes? Evidence from Sweden during the first year of the pandemic."
+title: "Community Testing"
 date: 2024-12-17T00:07:00+02:00
 draft: false
 status: 'Ongoing'
@@ -11,6 +11,8 @@ authors:
   - 'Carl Bonander'
   - 'Tove Fall'
 ---
+
+# Did community testing protect vulnerable groups from severe COVID-19 outcomes? Evidence from Sweden during the first year of the pandemic.
 
 Early detection is important to limit further spread of infectious diseases with human-to-human transmission. In communities with low testing propensity, there is a higher risk of undetected cases and unmitigated transmission. Vulnerable groups who live in communities with low testing propensity may therefore be at higher risk of severe disease outcomes compared to similar groups in communities with higher testing propensity.
 

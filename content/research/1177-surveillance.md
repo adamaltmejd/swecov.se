@@ -1,5 +1,5 @@
 ---
-title: "Time series anomaly detection in helpline call trends for early detection of COVID-19 spread across Sweden, 2020"
+title: "Helpline Anomaly Detection"
 date: 2025-09-24T08:26:59+02:00
 draft: false
 status: 'Published'
@@ -17,6 +17,8 @@ authors:
   - 'Mattias Ohlsson'
   - 'Jonas Björk'
 ---
+
+# Time series anomaly detection in helpline call trends for early detection of COVID-19 spread across Sweden, 2020
 
 The overall aim is to develop a generic syndromic surveillance system, based on deep and standard machine learning methods within applied artificial intelligence, to detect unusual symptom reporting to the 1177 health counselling service. The project will use data from the recent COVID-19 pandemic as an empirical example and will have the following specific objectives:
 
