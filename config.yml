@@ -42,9 +42,18 @@ module:
   imports:
     - path: github.com/adamaltmejd/research_project_theme
 
-pagination:
-  pagerSize: 30
+enableGitInfo: true
 
+frontmatter:
+  date:
+    - date
+    - :git
+    - :fileModTime
+  lastmod:
+    - :git
+    - :fileModTime
+    - lastmod
+    
 outputs:
   section:
     - html
