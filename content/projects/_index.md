@@ -1,8 +1,8 @@
 ---
-title: Studies
+title: Research
 menu:
   main:
-    identifier: "Studies"
-    weight: 300
+    identifier: "Research"
+    weight: 200
     parent: ""
 ---
