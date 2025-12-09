@@ -1,12 +1,10 @@
 ---
 title: "Vaccination Appointment Letters"
-date: 2025-07-07T00:46:00+02:00
-draft: false
-subject: ['Vaccination']
 status: 'Published'
+date: 2025-06-23
+subject: ['Vaccination']
 paper_url: 'https://academic.oup.com/eurpub/advance-article/doi/10.1093/eurpub/ckaf097/8172042?utm_source=advanceaccess&utm_campaign=eurpub&utm_medium=email'
 journal: 'European Journal of Public Health'
-publication_date: '2025-06-23'
 authors:
   - Georgios Varotsis
   - Ulf Hammar

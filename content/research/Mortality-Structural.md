@@ -1,12 +1,10 @@
 ---
 title: "Care Facility Mortality"
-date: 2024-01-08T10:49:16+01:00
-draft: false
 status: 'Published'
-subject: ['Long-term Care']
+date: 2024-01-08
+subject: ['Elderly care']
 paper_url: 'https://www.tandfonline.com/doi/full/10.1080/15309576.2023.2295282'
 journal: 'Public Performance & Management Review'
-publication_date: 2024-01-08
 authors:
   - 'Rasmus Broms'
   - 'Carl Dahlström'

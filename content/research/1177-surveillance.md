@@ -1,12 +1,10 @@
 ---
 title: "Helpline Anomaly Detection"
-date: 2025-09-24T08:26:59+02:00
-draft: false
 status: 'Published'
+date: 2025-09-24
 subject: ['Surveillance']
 paper_url: 'https://www.nature.com/articles/s41598-025-20641-2'
 journal: 'Scientific Reports'
-publication_date: 2025-09-24
 authors:
   - 'Atiye Sadat Hashemi'
   - 'Dominik Dietler'

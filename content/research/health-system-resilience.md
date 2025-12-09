@@ -1,12 +1,11 @@
 ---
 title: "Health System Resilience"
-date: 2023-11-12T20:20:47+01:00
+date: 2025-10-02
 draft: false
 status: 'Published'
 subject: ['Inequality']
 paper_url: 'https://doi.org/10.1186/s12913-025-13551-6'
 journal: 'BMC Health Services Research'
-publication_date: 2025-10-02
 authors:
   - Emily Maresch
   - My Fridell

@@ -1,12 +1,10 @@
 ---
 title: "Nursing homes and emergency visits"
-date: 2025-09-10T00:00:00+01:00
-draft: false
 status: 'Published'
-subject: []
+date: 2025-09-10
+subject: ['Elderly care']
 paper_url: 'https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-025-13443-9'
 journal: 'BMC Health Services Research'
-publication_date: 2025-09-10
 authors:
   - Wilhelm Linder
   - Douglas Spangler

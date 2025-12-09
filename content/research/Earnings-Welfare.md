@@ -1,12 +1,10 @@
 ---
 title: "Earnings Losses"
-date: 2024-12-14T09:00:00+02:00
-draft: false
 status: 'Published'
+date: 2024-12-01
 subject: ['Social policy']
 paper_url: 'https://onlinelibrary.wiley.com/doi/10.1111/roiw.12670'
 journal: 'Review of Income and Wealth'
-publication_date: 2024-12
 authors:
   - 'Adrian Adermon'
   - 'Lisa Laun'

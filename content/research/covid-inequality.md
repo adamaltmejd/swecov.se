@@ -1,12 +1,10 @@
 ---
 title: "Multidimensional inequality"
-date: 2023-11-10T09:00:00
-draft: false
 status: 'Published'
+date: 2023-11-09
 subject: ['Inequality', 'Social policy']
 paper_url: 'https://www.pnas.org/doi/10.1073/pnas.2303640120'
 journal: 'Proceedings of the National Academy of Sciences'
-publication_date: 2023-11-09
 authors:
     - 'Adam Altmejd'
     - 'Evelina Björkegren'

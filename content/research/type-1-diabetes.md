@@ -1,12 +1,10 @@
 ---
 title: "Type 1 Diabetes"
-date: 2025-01-01T07:00:59+02:00
-draft: false
 status: 'Published'
+date: 2025-09-18
 subject: ['Diabetes']
 paper_url: 'https://link.springer.com/article/10.1007/s00125-025-06540-1'
 journal: 'Diabetologia'
-publication_date: '2025'
 authors:
   - 'Annelie Carlsson'
   - 'Dominik Dietler'

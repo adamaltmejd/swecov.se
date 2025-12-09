@@ -1,12 +1,10 @@
 ---
 title: "Remote Learning Mental Health"
-date: 2024-11-30T09:26:00+02:00
-draft: false
 status: 'Published'
+date: 2024-11-01
 subject: ['Education', 'Mental Health']
 paper_url: 'https://www.aeaweb.org/articles?id=10.1257/pol.20220699'
 journal: 'American Economic Journal: Economic Policy'
-publication_date: 2024-11
 authors:
   - 'Evelina Björkegren'
   - 'Helena Svaleryd '
