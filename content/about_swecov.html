@@ -1,0 +1,670 @@
+---
+draft: false
+title: About SWECOV
+side_nav: true
+---
+
+<h1 id="purpose">Purpose</h1>
+The broad purpose of the SWECOV project is to answer two research questions:
+<ol>
+  <li>What are the consequences of COVID-19—as well as the interventions and reforms implemented to stop the spread of the disease—on public health, in terms of mortality and morbidity, but also psychological and physiological well-being more broadly?</li>
+  <li>What are the consequences of the pandemic—as well as the interventions and reforms implemented to stop the spread of the disease—for central social and economic outcomes, like jobs, income and inequality?</li>
+</ol>
+<p>By answering these questions, we aim to provide individuals, professionals, and policy makers with knowledge to help mitigate the spread of future pandemics and limit their social, economic, and health consequences. We believe that these broad questions are best answered if studied with the best available data, preferably linked individual-level data from a multitude of sources. We also believe that the questions are best answered if studied from multiple perspectives, by scholars from different disciplines. We have therefore organized the project to be open for researchers and set up an application process to <a href="/participation/">join SWECOV</a>.</p>
+
+<h1 id="Background">Background</h1>
+<p>SWECOV (officially <i>Ett forskningsprogram om covid-19 i Sverige: Smittspridning, bekämpning och effekter på individer och samhälle</i>) was started by Professor Torsten Persson in collaboration with the <a href="https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/2022/02/sou-202210/">Swedish Corona Commission</a>. Professor Persson, who was also a member of the commission, realized that it would be crucial for the commission to support new research in order to properly fulfill its task.</p>
+<p>During its working period, which ended with the publication of a final report in February 2022, the Corona Commission supported the research in SWECOV, chiefly by financing data purchases from different registers. In early 2022, the board of Riksbankens Jubileumsfond (The Riksbank Tercentenary Foundation) took a decision to support the continuation of SWECOV—as a major data source and network for research about the pandemic and its consequences—with a generous four-year grant.</p>
+
+<h1 id="data">Data</h1>
+The SWECOV project has collected individual-level and aggregate data from many Swedish authorities. Most sources cover the full Swedish population. This section provides an overview of the different data sources that we make use of to answer the research questions above. All data is either anonymous (aggregated) or pseudonymized, where any personal identifiers have been replaced with random numbers. This allows us to link data from different sources at the individual level without knowing the identities of the study population. All data is stored and accessed through <a href="https://www.scb.se/vara-tjanster/bestall-data-och-statistik/mikrodata/mona---leveranssystemet-for-mikrodata/">MONA</a>, the secure data environment ran by Statistics Sweden.
+
+<h2 id="data-scb">Statistics Sweden / SCB</h2>
+<div class="row row-cols-1 row-cols-md-2 g-3 mb-4">
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">RTB</h5>
+                <p class="card-text">Data on the total population registered in Sweden. The data comprises residential information of all people registered in Sweden as well as on changes in the respective years, such as births, deaths, immigration, emigration and moves within Sweden. Furthermore, individual networks can be derived using information on family and household composition, registered partners, children/parents.</p>
+            </div>
+            <div class="card-footer text-muted">1990–2024</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Salaries and benefits (AGI)</h5>
+                <p class="card-text">Information on salaries and (social) benefits paid out to individuals. The information stems from the tax returns that are submitted to Skatteverket (Swedish tax agency) each month. Individual- and company-level data tables are available.</p>
+            </div>
+            <div class="card-footer text-muted">2019–2023</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Production of commodities and industrial services</h5>
+                <p class="card-text">The annual statistics present the breakdown of goods in Sweden's industrial production with information on quantity and value. Production of goods and industrial services are included in the statistics.</p>
+            </div>
+            <div class="card-footer text-muted">1996–2021</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Labor market developments (AKU)</h5>
+                <p class="card-text">The Labour Force Survey (Arbetskraftsundersökningarna) is carried out on an ongoing basis by Statistics Sweden. The objectives of the survey are to describe the current employment conditions and to give information on the development of the labour market.</p>
+            </div>
+            <div class="card-footer text-muted">2015–2020</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Structural business statistics (FEK)</h5>
+                <p class="card-text">The purpose of Structural Business Statistics is to illuminate the structure of the business sector (excluding the financial and public sectors as well as households' non-profit organisations) with regard to primarily profitability, growth, development, financing and production.</p>
+            </div>
+            <div class="card-footer text-muted">1990–2022</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Statistical Business Register (FDB)</h5>
+                <p class="card-text">The number of enterprises and employees by industry and size class are reported in the statistical business register, which is a register of all enterprises, government agencies, organisations and their workplaces.</p>
+            </div>
+            <div class="card-footer text-muted">2015–2024</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">VAT / Moms</h5>
+                <p class="card-text">Moms includes yearly files over VAT paid and reported by Swedish firms. Useful source of information about different kinds of sales, for example differentiating between alcohol and food at restaurants.</p>
+            </div>
+            <div class="card-footer text-muted">2015–2022</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Income and taxation register (IoT)</h5>
+                <p class="card-text">Annual tables on income and taxes of all taxable individuals in Sweden. IoT was used to efficiently get longer time series on income and taxation data. Information in IoT is also contained in LISA and AGI. Therefore, IoT is no longer updated.</p>
+            </div>
+            <div class="card-footer text-muted">1996–2021</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Short-term business statistics on sick pay</h5>
+                <p class="card-text">Individual-level data on sick pay periods.</p>
+            </div>
+            <div class="card-footer text-muted">2015–2023</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Bankruptcies / konkurser</h5>
+                <p class="card-text">Firm-level data on bankruptcies.</p>
+            </div>
+            <div class="card-footer text-muted">2015–2022</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">LISA firms</h5>
+                <p class="card-text">Data on all active Swedish companies from the "longitudinal integrated database for health insurance and labour market studies" (LISA). Only active firms listed in the RAMS database are included. The annual tables include financial and workforce data.</p>
+            </div>
+            <div class="card-footer text-muted">1990–2023</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">LISA workplaces</h5>
+                <p class="card-text">Data on workplaces ("arbetsställen") from the "longitudinal integrated database for health insurance and labour market studies" (LISA) listed in the RAMS database. The annual tables include workforce data.</p>
+            </div>
+            <div class="card-footer text-muted">1990–2023</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">LISA Individuals</h5>
+                <p class="card-text">Data comes from the "longitudinal integrated database for health insurance and labour market studies" (LISA) and includes all individuals 16 years and older (since 2010 also 15 year-olds). Available tables include information on individual's incomes from employment, unemployment, sick pay and other social benefits among other background variables (e.g., education).</p>
+            </div>
+            <div class="card-footer text-muted">1990–2023</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">RAMS job register</h5>
+                <p class="card-text">Individual-level data on employment and incomes from RAMS. The population consists of all individuals that are 16 years or older at the end of the respective year.</p>
+            </div>
+            <div class="card-footer text-muted">1990–2021</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">RAMS workplaces</h5>
+                <p class="card-text">Addresses and workforce data of in long-term care facilities (SÄBOs). Additional data on all workplaces can be found in LISA workplaces.</p>
+            </div>
+            <div class="card-footer text-muted">2015–2021</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">STATIV</h5>
+                <p class="card-text">Individual-level data from the longitudinal database for integration studies. Available data includes information on employment and received support from the Swedish Public Employment Service.</p>
+            </div>
+            <div class="card-footer text-muted">1997–2023</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Foreign trade</h5>
+                <p class="card-text">Firm-level statistics on foreign trade. Among the information included in the available tables are the type, value, and amount of goods and services exported/imported as well as the destination/origin country.</p>
+            </div>
+            <div class="card-footer text-muted">1997–2023 (goods), 2004–2021 (services)</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">University registry (HREG)</h5>
+                <p class="card-text">Individual-level data from the university registry on applications, admissions and registrations to the different educational programs offered at the Swedish universities. Moreover, information on course- and programme-level achievements (course points/diplomas) is available.</p>
+            </div>
+            <div class="card-footer text-muted">1990–2022</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Education register (UREG)</h5>
+                <p class="card-text">The education registry contains individual-level information about the highest completed education. Educational classifications are made according to the Swedish Educational Terminology (Svensk utbildningsnomenklatur; SUN).</p>
+            </div>
+            <div class="card-footer text-muted">1990–2024</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Teaching personnel / Lärarregistret</h5>
+                <p class="card-text">The statistics contain information on the employment, education and activity level of teachers. Data contains a school-level ID allowing to link teachers, students and schools and to integrate background information (e.g., municipality) of the schools.</p>
+            </div>
+            <div class="card-footer text-muted">1989–2022</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Geographical database</h5>
+                <p class="card-text">Information on the geographic location of individuals, schools and workplaces. Spatial resolution is at the Demographic Statistical Area-level (DeSo) and at 250x250m resolution.</p>
+            </div>
+            <div class="card-footer text-muted">1990–2024</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">SCB Surveys</h5>
+                <p class="card-text">Remote teaching at compulsory and high school-level (VT20-VT21), ICT usage in enterprises (2013-2020), Research and development in the business sector (1997-2021), Innovation activities in Swedish businesses (2002-2020).</p>
+            </div>
+            <div class="card-footer text-muted">Various years</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">SÄBO residents</h5>
+                <p class="card-text">Information on movements, addresses of people living in long-term care facilities (SÄBOs) in Stockholm, Gothenburg, Malmö.</p>
+            </div>
+            <div class="card-footer text-muted">2019–2021</div>
+        </div>
+    </div>
+</div>
+
+<h2 id="data-socialstyrelsen">Socialstyrelsen</h2>
+<div class="row row-cols-1 row-cols-md-2 g-3 mb-4">
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Prescribed Drug Register / Läkemedelsregistret</h5>
+                <p class="card-text">The National Prescribed Drug Register contains all prescribed drugs dispensed at pharmacies. Each row in the register corresponds to one dispensation at a pharmacy. The available data contains among others the ATC-codes, amount of dispensed drugs, and the prescription and collection date.</p>
+            </div>
+            <div class="card-footer text-muted">2005–2023</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Cause of Death Register / Dödsorsaksregistret</h5>
+                <p class="card-text">The Cause of Death Register contains information on the underlying and contributing causes of all deaths in the population. In addition, the date and place of death (e.g., at home, in hospital care) is available.</p>
+            </div>
+            <div class="card-footer text-muted">2005–2023</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Intensive Care Register / Intensivvårdsregistret</h5>
+                <p class="card-text">Registry of individuals who has received care for COVID-19 in Swedish intensive care. The data includes information on the health status, diagnosis and medical procedures of the COVID-19 ICU events.</p>
+            </div>
+            <div class="card-footer text-muted">2020–2021</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Patient Register / Patientregistret</h5>
+                <p class="card-text">Data on all inpatient and outpatient care provided to individuals in the study population. Some codes for diagnoses (i.e., ICD) and medical procedures (i.e., KVÅ) are truncated.</p>
+            </div>
+            <div class="card-footer text-muted">2005–2023</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Register of Measures for Children and Young persons</h5>
+                <p class="card-text">Interventions of the child social services for the protection of children and adolescents. The data comprises basic information on the measures and placements such as the type of measure (e.g., placement, immediate custody) or the type of placement (e.g., foster homes, youth homes).</p>
+            </div>
+            <div class="card-footer text-muted">2015–2021</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Cancer register / Cancerregistret</h5>
+                <p class="card-text">Information on cancer diagnoses of people living in long-term care facilities. Each row corresponds to an individual cancer diagnosis. The data comprises additional detailed information on the localization and pathology of the tumors.</p>
+            </div>
+            <div class="card-footer text-muted">2005–2022</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Register of Social Assistance</h5>
+                <p class="card-text">Monthly individual- and household-level data on social assistance paid by the National Board of Health and Welfare (Socialstyrelsen). The data includes information on the reason and amount of social assistance as well as basic information on the households.</p>
+            </div>
+            <div class="card-footer text-muted">2015–2023</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Register of Interventions in Municipal Health Care</h5>
+                <p class="card-text">Registry over municipal health care services. Before 2019, only data on the beneficiaries is available. Since 2019, more information about the individual medical procedures and the health care providers is available.</p>
+            </div>
+            <div class="card-footer text-muted">2016–2023</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Register of Municipal Support and Service (LSS)</h5>
+                <p class="card-text">Information on the types of support services provided to people with disability according to LSS (Act on Support and Service for Persons with Certain Functional Impairments/lagen om stöd och service till vissa funktionshindrade). The data is provided by individual and year.</p>
+            </div>
+            <div class="card-footer text-muted">2015–2023</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Register of Care and Social Services for the Elderly</h5>
+                <p class="card-text">Data on elderly care decisions. The data contains monthly individual-level information on the types of care and the residence status (e.g., long-term care facilities/särskild boende, SÄBO).</p>
+            </div>
+            <div class="card-footer text-muted">2018–2023</div>
+        </div>
+    </div>
+</div>
+
+<h2 id="data-primary-care">Primary care data</h2>
+<div class="row row-cols-1 row-cols-md-2 g-3 mb-4">
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Region Stockholm</h5>
+                <p class="card-text">Diagnoses and medical procedures.</p>
+            </div>
+            <div class="card-footer text-muted">2015–2023</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Region Skåne</h5>
+                <p class="card-text">Diagnoses and medical procedures.</p>
+            </div>
+            <div class="card-footer text-muted">2016–2023</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Region Västra Götaland</h5>
+                <p class="card-text">Diagnoses and medical procedures.</p>
+            </div>
+            <div class="card-footer text-muted">2016–2023</div>
+        </div>
+    </div>
+</div>
+
+<h2 id="data-fhm">Folkhälsomyndigheten</h2>
+<div class="row row-cols-1 row-cols-md-2 g-3 mb-4">
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">National vaccination register</h5>
+                <p class="card-text">The National Vaccination Register comprises information on vaccinations administered within the scope of the national vaccination programme for children, vaccination programme against pneumococcal infections for risk groups and the COVID-19 vaccinations.</p>
+            </div>
+            <div class="card-footer text-muted">January 2013–April 2024</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">COVID-19 cases (SmiNet)</h5>
+                <p class="card-text">SmiNet is The Public Health Agency of Sweden's database where all cases of diseases with legal reporting requirements (anmälningsplikt) are registered. Doctors report cases to SmiNet, and reports are verified by the disease prevention and control units in the reporting region. We have access to all registered SARS-CoV-2 cases. In a separate table, we have data on all registered tests. Moreover, there is a subset of samples for which the results of whole genome sequencing on the SARS-CoV-2 lineages are available.</p>
+            </div>
+            <div class="card-footer text-muted">February 2020–April 2024</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Pandremix vaccinations</h5>
+                <p class="card-text">Vaccinations against the 2009 swine flu from the Region Östergötland, Region Norrbotten, Region Kalmar, Region Kronoberg, Region Värmland, Region Västerbotten, Region Jönköping, Region Uppsala.</p>
+            </div>
+            <div class="card-footer text-muted">2009</div>
+        </div>
+    </div>
+</div>
+
+<h2 id="data-skatteverket">The Swedish Tax Agency / Skatteverket</h2>
+<div class="row g-3 mb-4">
+    <div class="col-12">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Financial support from Skatteverket</h5>
+                <p class="card-text">Firm-level data from the Swedish Tax Agency on tax payments and financial support. Tax information includes employers contributions (arbetsgivaravgift) and VAT (moms). Financial support data includes applications for tax-payment respites (tillfälligt anstånd) and redeployment support (omställningsstöd) as well as reductions of social security contributions during the pandemic.</p>
+            </div>
+            <div class="card-footer text-muted">2019–2021</div>
+        </div>
+    </div>
+</div>
+
+<h2 id="data-iaf">Inspektionen för Arbetslöshetsförsäkringen</h2>
+<div class="row g-3 mb-4">
+    <div class="col-12">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">ASTAT</h5>
+                <p class="card-text">ASTAT contains information on unemployment benefits from the different unemployment funds in Sweden. Data on the individual benefit periods consist among others of information on the recipient, the reason for the payments, and the amount and duration of the benefit period.</p>
+            </div>
+            <div class="card-footer text-muted">2015–March 2023</div>
+        </div>
+    </div>
+</div>
+
+<h2 id="data-af">Arbetsförmedlingen</h2>
+<div class="row g-3 mb-4">
+    <div class="col-12">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Arbetsförmedlingen</h5>
+                <p class="card-text">Detailed longitudinal information on individuals registered with the Swedish Public Employment Service. It covers participation in labor market programs, activation measures, and unemployment benefit eligibility. The data includes start and end dates of registrations, reasons for entering or leaving programs, information on assigned activities and interventions, as well as variables describing occupational codes (SSYK) and assessment of needs.</p>
+            </div>
+            <div class="card-footer text-muted">2015–July 2023</div>
+        </div>
+    </div>
+</div>
+
+<h2 id="data-tillvaxtverket">Tillväxtverket</h2>
+<div class="row g-3 mb-4">
+    <div class="col-12">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Short-time work</h5>
+                <p class="card-text">Firm-level and individual-level data on short-time work during the pandemic.</p>
+            </div>
+            <div class="card-footer text-muted">2020–2021</div>
+        </div>
+    </div>
+</div>
+
+<h2 id="data-forsakringskassan">Försäkringskassan</h2>
+<div class="row g-3 mb-4">
+    <div class="col-12">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Benefit payments</h5>
+                <p class="card-text">Data on various benefit payments from Försäkringskassan (Social Insurance Agency). Data comes from MIDAS, Försäkringskassans register. Available data includes benefits for sickness (including COVID-19-specific benefits) and disability. In addition, information on benefit payments for parents (e.g., parental leave or care allowance for sick children, VAB) and job seekers is included.</p>
+            </div>
+            <div class="card-footer text-muted">2015–2024</div>
+        </div>
+    </div>
+</div>
+
+<h2 id="data-lakemedelsverket">Läkemedelsverket</h2>
+<div class="row g-3 mb-4">
+    <div class="col-12">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Side-effects</h5>
+                <p class="card-text">The data includes information from reported side-effects from vaccinations. Perceived side-effects were reported to Swedish Medical Products Agency (Läkemedelsverket) by patients and medical professionals. It covers the time period since 2005 and hence also includes reported side-effects of vaccines other than against SARS-CoV-2.</p>
+            </div>
+            <div class="card-footer text-muted">2005–2023</div>
+        </div>
+    </div>
+</div>
+
+<h2 id="data-inera">Inera/1177</h2>
+<div class="row g-3 mb-4">
+    <div class="col-12">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">1177 calls and ordered COVID-19 tests</h5>
+                <p class="card-text">Two tables are available. Firstly, data on calls to the 1177 health counselling hotline. The data includes information on the main symptom reported during the call and the urgency level determined by the telephone counsellor. Secondly, data on ordered COVID-19 tests through the 1177 hotline. As opposed to the registered positive tests in SMINet, we also have information on individuals that tested negative. The data covers all regions except Region Kronoberg and Region Östergötland. Hotline data is also not available for Stockholm.</p>
+            </div>
+            <div class="card-footer text-muted">2019–2023</div>
+        </div>
+    </div>
+</div>
+
+<h2 id="data-sos-alarm">SOS Alarm</h2>
+<div class="row g-3 mb-4">
+    <div class="col-12">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Ambulance operations</h5>
+                <p class="card-text">Incidences of ambulance operations in the following regions: Blekinge, Halland, Jönköping, Kronoberg, Skåne, Stockholm, Örebro, and Östergötland. Data contains information on the place and reason for the operation. No personal IDs are available in this data set. Hence, it can't be linked to other individual-level data.</p>
+            </div>
+            <div class="card-footer text-muted">2018–2021</div>
+        </div>
+    </div>
+</div>
+
+<h2 id="data-riksarkivet">Riksarkivet/Pliktverket</h2>
+<div class="row g-3 mb-4">
+    <div class="col-12">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Military enlistment</h5>
+                <p class="card-text">Individual-level data from the military enlistment from Riksarkivet (1969-1997) and Pliktverket (1997-2010). Data contains the grades given for cognitive and leadership skills, psychological function as well as anthropometric measurements.</p>
+            </div>
+            <div class="card-footer text-muted">1969–2010</div>
+        </div>
+    </div>
+</div>
+
+<h2 id="data-skolverket">Skolverket</h2>
+<div class="row g-3 mb-4">
+    <div class="col-12">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Elevregistret</h5>
+                <p class="card-text">The data from the school registry (elevregistret) contain information on students in pre-school classes (förskoleklass), compulsory schools (grundskola) and leisure-time centers (fritidshem). The information include grades in compulsory school and high school as well as results from the national tests.</p>
+            </div>
+            <div class="card-footer text-muted">1990–2024</div>
+        </div>
+    </div>
+</div>
+
+<h2 id="data-telia">Telia</h2>
+<div class="row g-3 mb-4">
+    <div class="col-12">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Mobility data</h5>
+                <p class="card-text">Aggregated weekly estimates of number of trips between and within the 290 municipalities in Sweden. Estimates are derived by tracing mobile phone's signals to transmission towers and made representative for the Swedish population by taking Telia's market share and other variables into account. Data is aggregated at the municipal level and does not contain any personal IDs.</p>
+            </div>
+            <div class="card-footer text-muted">January 2019–May 2021</div>
+        </div>
+    </div>
+</div>
+
+<h2 id="data-swedbank">Swedbank</h2>
+<div class="row row-cols-1 row-cols-md-2 g-3 mb-4">
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Swedbank domestic transactions</h5>
+                <p class="card-text">Payments within Sweden using Swedbank bank cards. The data contains a card ID that is associated with a ZIP code but can't be linked to other individual-level data.</p>
+            </div>
+            <div class="card-footer text-muted">January 2020–March 2020</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Swedbank foreign transactions</h5>
+                <p class="card-text">Card-level transactions made outside Sweden. Data include the date and country of the transaction and the age group and ZIP code of the card owner but no personal ID that would allow to link them with other registers.</p>
+            </div>
+            <div class="card-footer text-muted">January 2020–March 2020</div>
+        </div>
+    </div>
+</div>
+
+<h2 id="data-quality-registers">Quality registers</h2>
+<div class="row row-cols-1 row-cols-md-2 g-3 mb-4">
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">National Diabetes Register (NDR)</h5>
+                <p class="card-text">The data contain information about the diagnosis, treatment complications of diabetic patients as well as risk factors. Data on adults stem from the diabetes register ("Diabetesregistret"). It contains approximately 85% of all diabetes patients in Sweden. Data on children come from the child diabetes register ("Swediabkids") which has an almost 100% coverage.</p>
+            </div>
+            <div class="card-footer text-muted">2007 (children), 2010 (adults)–present</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Pregnancy register (Graviditetsregistret)</h5>
+                <p class="card-text">The Pregnancy Registry is a national quality registry. The Pregnancy Registry collects data via automatic transfer from medical record systems, via manual entry within the maternal health care (MHV) and via direct registration during KUB examinations. The registry collects and processes information all the way from early pregnancy up to and including a few months after delivery.</p>
+            </div>
+            <div class="card-footer text-muted">Various years</div>
+        </div>
+    </div>
+</div>
+
+<h2 id="data-swecov">SWECOV derived data</h2>
+<div class="row row-cols-1 row-cols-md-2 g-3 mb-4">
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Comorbidities and risk groups</h5>
+                <p class="card-text">Two indicators created by SWECOV based on other available health data: Comorbidities (indicator for individuals having comorbidities that are associated with higher risk of developing severe forms of COVID-19) and Risk groups (indicator for individuals having pre-existing conditions that may lead to a higher risk of infection of SARS-CoV-2 or higher risk of severe Covid-19 if infected). The indicators were identified through diagnosis and treatment during episodes of inpatient care or visits to specialized outpatient care up to five years prior to, or during the index year.</p>
+            </div>
+            <div class="card-footer text-muted">2020–2021</div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Charlson and Elixhauser comorbidity indexes</h5>
+                <p class="card-text">Annual comorbidity indexes using standard methodologies (Charlson and Elixhauser) based on diagnoses included in the National Patient Registers. The raw data containing these codes may also be available if researchers wish to adapt the indexes to their needs.</p>
+            </div>
+            <div class="card-footer text-muted">Various years</div>
+        </div>
+    </div>
+</div>
+
+<h1 id="coordinators">Project coordinators</h1>
+<div class="row justify-content-center mb-4">
+    <div class="col-12 col-lg-8">
+        <div class="row row-cols-2 g-3">
+            <div class="col">
+                <div class="card h-100">
+                    <img src="../img/torsten.jpeg" class="card-img-top" alt="Photo of Torsten Persson">
+                    <div class="card-body">
+                        <h5 class="card-title">Torsten Persson</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Principal investigator</h6>
+                        <p class="card-text text-start">Swedish Research Council Distinguished Professor at the Institute for International Economic Studies at Stockholm university</p>
+                    </div>
+                    <div class="card-footer text-center">
+                        <a href="mailto:torsten.persson@iies.su.se" title="Email" class="text-decoration-none">{{< icons/icon vendor=fas name=envelope >}}</a>
+                        <a href="http://perseus.iies.su.se/~tpers/" target="_blank" title="Website" class="ms-3 text-decoration-none">{{< icons/icon vendor=fas name=globe >}}</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="../img/adam.jpeg" class="card-img-top" alt="Photo of Adam Altmejd">
+                    <div class="card-body">
+                        <h5 class="card-title">Adam Altmejd</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Project coordinator</h6>
+                        <p class="card-text text-start">Researcher at the Swedish Institute for Social Research at Stockholm university.</p>
+                    </div>
+                    <div class="card-footer text-center">
+                        <a href="mailto:adam.altmejd@sofi.su.se" title="Email" class="text-decoration-none">{{< icons/icon vendor=fas name=envelope >}}</a>
+                        <a href="https://adamaltmejd.se" target="_blank" title="Website" class="ms-3 text-decoration-none">{{< icons/icon vendor=fas name=globe >}}</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="../img/dominik.jpeg" class="card-img-top" alt="Photo of Dominik Dietler">
+                    <div class="card-body">
+                        <h5 class="card-title">Dominik Dietler</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Project coordinator</h6>
+                        <p class="card-text text-start">Researcher at the Division of Occupational and Environmental Medicine at Lund University.</p>
+                    </div>
+                    <div class="card-footer text-center">
+                        <a href="mailto:dominik.dietler@med.lu.se" title="Email" class="text-decoration-none">{{< icons/icon vendor=fas name=envelope >}}</a>
+                        <a href="https://portal.research.lu.se/en/persons/dominik-dietler" target="_blank" title="Website" class="ms-3 text-decoration-none">{{< icons/icon vendor=fas name=globe >}}</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="../img/maxim.jpeg" class="card-img-top" alt="Photo of Maxim Kan">
+                    <div class="card-body">
+                        <h5 class="card-title">Maxim Kan</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Project coordinator</h6>
+                        <p class="card-text text-start">Researcher at the Global Public Health Department at Karolinska Institute.</p>
+                    </div>
+                    <div class="card-footer text-center">
+                        <a href="mailto:maxim.kan@ki.se" title="Email" class="text-decoration-none">{{< icons/icon vendor=fas name=envelope >}}</a>
+                        <a href="https://ki.se/en/people/maxim-kan" target="_blank" title="Website" class="ms-3 text-decoration-none">{{< icons/icon vendor=fas name=globe >}}</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<h1 id="steering-board">Steering board</h1>
+The SWECOV steering board sets the direction and agenda for the project. The board meets four times per year. In addition to Professor Persson and the project coordinators, the board currently consists of:
+<ul>
+    <li>Professor <a href="https://portal.research.lu.se/sv/persons/jonas-bj%C3%B6rk/" target="_blank">Jonas Björk</a>, Lund University</li>
+    <li>Professor <a href="https://ki.se/personer/anna-mia-ekstrom" target="_blank">Anna-Mia Ekström</a>, Karolinska Institutet</li>
+    <li>Professor <a href="https://www.uu.se/kontakt-och-organisation/personal?query=N9-1007" target="_blank">Tove Fall</a>, Uppsala University</li>
+    <li>Professor <a href="https://www.su.se/profiles/l/lundb" target="_blank">Olle Lundberg</a>, Stockholm University and FORTE</li>
+    <li>Professor <a href="https://helenasvaleryd.com/" target="_blank">Helena Svaleryd</a>, Uppsala University</li>
+</ul>

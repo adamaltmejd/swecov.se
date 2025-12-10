@@ -2,6 +2,25 @@ baseURL: 'https://swecov.se/'
 languageCode: 'en-us'
 
 title: 'SWECOV'
+
+menu:
+  main:
+    - name: 'Home'
+      pageRef: '/'
+      weight: 10
+    - name: 'Research'
+      pageRef: '/research'
+      weight: 20
+    - name: 'Workshops'
+      pageRef: '/workshops'
+      weight: 30
+    - name: 'Join us'
+      pageRef: '/participation'
+      weight: 40
+    - name: 'About SWECOV'
+      pageRef: '/about_swecov'
+      weight: 50
+
 params:
   institution: 'Stockholm university'
   subtitle: 'Swedish COVID-19 Research'
@@ -14,10 +33,29 @@ params:
   success_color: '#A0E68E'
   info_color: '#219EBC'
   danger_color: '#FB8500'
+  project_filters:
+    - 'status'
+    - 'subject'
+  project_search: true
 
 module:
   imports:
     - path: github.com/adamaltmejd/research_project_theme
 
-pagination:
-  pagerSize: 30
+enableGitInfo: true
+
+frontmatter:
+  date:
+    - date
+    - :git
+    - :fileModTime
+  lastmod:
+    - :git
+    - :fileModTime
+    - lastmod
+    
+outputs:
+  section:
+    - html
+    - rss
+    - json

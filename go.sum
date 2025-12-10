@@ -1,5 +1,5 @@
-github.com/adamaltmejd/research_project_theme v1.0.14 h1:6zgP2+/ifrvXUxOCTafrv+3TttJPuTd0gxgBq6QoUGk=
-github.com/adamaltmejd/research_project_theme v1.0.14/go.mod h1:icXDmTA9IpyOzOraTMCF2MxlVBOzS1KxSX7I6fDiXVA=
+github.com/adamaltmejd/research_project_theme v1.1.1 h1:/zuU5ByIqJ65L7Ugsdyy2JXtIdk67Wp9VzBc3LhxBGI=
+github.com/adamaltmejd/research_project_theme v1.1.1/go.mod h1:sPHHvANIhC13WFKZwbYGB8eVmQsIBflsiZ9Gqs1DBoA=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20400 h1:L6+F22i76xmeWWwrtijAhUbf3BiRLmpO5j34bgl1ggU=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20400/go.mod h1:uekq1D4ebeXgduLj8VIZy8TgfTjrLdSl6nPtVczso78=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 h1:GZxx4Hc+yb0/t3/rau1j8XlAxLE4CyXns2fqQbyqWfs=
