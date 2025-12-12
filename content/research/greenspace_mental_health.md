@@ -1,5 +1,6 @@
 ---
-title: "Green spaces and mental health"
+title: "Was residential nature access a protective factor for the development of mental health problems in the population during the COVID-19 pandemic?"
+shorttitle: "Green spaces and mental health"
 date: 2024-12-17T00:37:00+02:00
 draft: false
 status: 'Ongoing'
@@ -9,8 +10,6 @@ authors:
   - 'Cecilia Stenfors'
   - 'Yan Ma'
 ---
-
-# Was residential nature access a protective factor for the development of mental health problems in the population during the COVID-19 pandemic?
 
 A growing body of research have found that exposures to natural environments in terms of green and blue space can have positive effects on several aspects of human mental wellbeing and health. Residential access to natural spaces may have an increasingly important factor for mental health during the pandemic when people were required or encouraged to spend more time at home. There is a lack of large-scale longitudinal studies which assess the extent to which residential green and blue space access plays a role in protecting and buffering against poor mental health in terms of prevalence and incidence of mental health outcomes during and in the aftermath of COVID-19 related restrictions.
 

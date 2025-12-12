@@ -1,5 +1,6 @@
 ---
-title: "Youth mental health services"
+title: "Social inequalities in use of mental health care services among young persons during the different phases of the pandemic"
+shorttitle: "Youth mental health services"
 date: 2024-02-05T16:13:00+02:00
 draft: false
 status: 'Ongoing'
@@ -12,8 +13,6 @@ authors:
   - 'Jonas Vlachos'
   - 'Helena Svaleryd'
 ---
-
-# Social inequalities in use of mental health care services among young persons during the different phases of the pandemic
 
 The pandemic had profound consequences on nearly all aspects of social life, health and health care access. Policy makers and scholars have expressed concern about the consequences of the pandemic on mental health of young persons. International evidence has found modest increases in poor mental health outcomes. Evidence from register-based studies in Sweden have suggested that the trends may differ depending on the specific indicator of mental health, population sub-group and stage of the pandemic.
 

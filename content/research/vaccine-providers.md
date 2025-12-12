@@ -1,5 +1,6 @@
 ---
-title: "Vaccine Provider Impact"
+title: "The impact of private and public providers of vaccination"
+shorttitle: "Vaccine Provider Impact"
 date: 2023-11-27T09:26:59+02:00
 draft: false
 status: 'Ongoing'
@@ -9,8 +10,6 @@ authors:
   - 'Jonas Vlachos'
   - 'Jaroslav Yakymovych'
 ---
-
-# The impact of private and public providers of vaccination
 
 This project analyzes whether private and public healthcare providers differ in how they facilitate access to vaccination, particulary how they prioritize between groups and whether personal network connections matter for early vaccination. The results will be informative regarding the costs and benefits of private and public healthcare provision in a crisis situation when the contracting environment is inherently weak. Since the crisis organization builds on the organization during normal times, the results will also have implications for healthcare organization more generally. The project will contribute to our understanding of the consequences of the organization of an intervention – vaccination – for the uptake and timing of vaccination.
 

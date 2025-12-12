@@ -1,5 +1,6 @@
 ---
-title: "Civic Capital and COVID-19"
+title: "Civic Capital, Crisis, and Health Behaviours during the Covid-19 Pandemic in Sweden"
+shorttitle: "Civic Capital and COVID-19"
 date: 2024-01-29T10:55:30+02:00
 draft: false
 status: 'Ongoing'
@@ -8,8 +9,6 @@ authors:
   - 'Olof Östergren'
   - 'Bartholomew Konechni'
 ---
-
-# Civic Capital, Crisis, and Health Behaviours during the Covid-19 Pandemic in Sweden
 
 In the recent pandemic, international evidence has found that higher levels of *civic capital,* the values, institutions, and practices that are conducive to cooperation within a community, were associated with reduced spatial mobility and a greater uptake in preventative behaviours such as wearing a mask as well as lower excess mortality. However, the previous literature exploring civic capital’s role during the pandemic has overwhelmingly done so in countries which adopted stringently enforced non-pharmaceutical interventions (NPIs). Relative to other countries, Sweden is characterised by trust in public institutions and during the pandemic, the government response heavily relied on individual responsibility.
 

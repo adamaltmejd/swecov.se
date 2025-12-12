@@ -1,5 +1,6 @@
 ---
-title: "Lockdown Cohort Effect"
+title: "The Lockdown Cohort -effect: The COVID-19 pandemic's effect on the socioeconomic composition of parents and social inequalities in perinatal health"
+shorttitle: "Lockdown Cohort Effect"
 date: 2024-05-31T14:14:00+02:00
 draft: false
 status: 'Ongoing'
@@ -8,8 +9,6 @@ authors:
   - 'Olof Östergren'
   - 'Moritz Oberndorfer'
 ---
-
-# The Lockdown Cohort -effect: The COVID-19 pandemic's effect on the socioeconomic composition of parents and social inequalities in perinatal health
 
 The COVID-19 pandemic placed a heavy social and health burden on populations. Yet, because of potential social inequalities in the pandemic's impact on fertility behaviour, babies conceived during the pandemic may be the most socially advantaged and healthiest birth cohort of the last decades.
 

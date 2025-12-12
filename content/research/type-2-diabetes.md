@@ -1,5 +1,6 @@
 ---
-title: "Type 2 Diabetes"
+title: "COVID-19 and type 2 diabetes incidence and severity across migration status"
+shorttitle: "Type 2 Diabetes"
 date: 2024-02-07T09:26:59+02:00
 draft: false
 status: 'Ongoing'
@@ -9,8 +10,6 @@ authors:
   - 'Dominik Dietler'
   - 'Annelie Carlsson'
 ---
-
-# COVID-19 and type 2 diabetes incidence and severity across migration status
 
 Type 2 diabetes (T2D) is a severe chronic disease affecting 6% in the general population and approximately 12% in people originating from non-western regions. Today every fifth person in Sweden is born abroad and non-western immigrants represents the largest immigrant groups.
 

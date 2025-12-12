@@ -1,5 +1,6 @@
 ---
-title: "1177 Disease Surveillance"
+title: "Symptoms reported through the Swedish Healthcare Guide 1177 for disease surveillance and hospital predictions"
+shorttitle: "1177 Disease Surveillance"
 date: 2023-03-27T09:26:59+02:00
 draft: false
 status: 'Ongoing'
@@ -12,8 +13,6 @@ authors:
   - 'Per Lundmark'
   - 'Georgios Varotsis'
 ---
-
-# Symptoms reported through the Swedish Healthcare Guide 1177 for disease surveillance and hospital predictions
 
 Disease surveillance is crucial during a pandemic because it allows informed decisions and evaluation of the effectiveness of implemented policies. Our study aims to develop new methods for real-time surveillance of respiratory virus spread and to predict surges in hospital admissions based on >4 million yearly calls to the Swedish Healthcare Guide 1177 phone-line, a largely untapped resource for syndromic surveillance. We have two main aims:
 

@@ -1,5 +1,6 @@
 ---
-title: "Odd One Out"
+title: "The Odd One Out—Life and Death in Sweden During the COVID-19 Pandemic"
+shorttitle: "Odd One Out"
 status: 'Published'
 date: 2025-11-11
 subject: ['Inequality']
@@ -8,8 +9,6 @@ journal: 'Social Life during COVID-19 in France, Germany, Italy and the UK'
 authors:
   - 'Olof Östergren'
 ---
-
-# The Odd One Out—Life and Death in Sweden During the COVID-19 Pandemic
 
 In comparison to other European nations, Sweden implemented fewer restrictions to curb the spread of COVID-19. This chapter examines the institutional framework and principles of crisis management that probably influenced Sweden’s approach, alongside a summary of the non-pharmaceutical interventions that shaped daily life. Rather than enforcing lockdowns, Sweden relied on voluntary actions of individuals. The government encouraged behavioural change through recommendations, while substantial enhancements to Sweden’s already robust welfare system mitigated the adverse effects for individuals who chose to work from home, self-isolate, or care for vulnerable family members. Nonetheless, as the pandemic continued, progressively stricter measures were introduced for individuals and businesses.
 

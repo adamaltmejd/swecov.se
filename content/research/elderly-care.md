@@ -1,5 +1,6 @@
 ---
-title: "Nursing homes and emergency visits"
+title: "Variation in emergency department visits among residents of Swedish nursing homes between 2019 and 2020, a population-based cohort study"
+shorttitle: "Nursing homes and emergency visits"
 status: 'Published'
 date: 2025-09-10
 subject: ['Elderly care']
@@ -13,8 +14,6 @@ authors:
   - David Isaksson
   - Ulrika Winblad
 ---
-
-# Variation in emergency department visits among residents of Swedish nursing homes between 2019 and 2020, a population-based cohort study
 
 Nursing homes (NHs, SÄBO) and their residents were severely affected by the covid-19 pandemic with NH-residents (approximately 1% of the Swedish population) constituting approximately 40% of covid-19 related deaths. As the share of older individuals are increasing in Sweden, research on elderly care will be of uttermost importance in order to protect the elderly from future epi- and pandemics.  This project relates to previous work by the Swedish Coronavirus Commission where data from SweCov was used to investigate covid-19 infections and mortality at Swedish NHs. Noticeably, two reports included in the preparatory documents from The Coronavirus Commission introduced a novel method for clustering individuals (and individual health data) to their respective NHs. In theory, structural factors of NHs (e.g. NH size) can affect both the covid-19 incidence and mortality (e.g. availability of nurses). Using this novel approach of selecting NH-residents using linked individual level data, Broms et al. reported that high NH staff turnover, lack of nurses, and larger NHs were associated with an increase in covid-19 infections and mortality.
 
