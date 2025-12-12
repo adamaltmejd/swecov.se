@@ -1,8 +1,7 @@
 ---
 title: "Was residential nature access a protective factor for the development of mental health problems in the population during the COVID-19 pandemic?"
 shorttitle: "Green spaces and mental health"
-date: 2024-12-17T00:37:00+02:00
-draft: false
+date: 2024-12-17
 status: 'Ongoing'
 subject: ['Mental Health']
 authors:

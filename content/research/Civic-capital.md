@@ -1,8 +1,7 @@
 ---
 title: "Civic Capital, Crisis, and Health Behaviours during the Covid-19 Pandemic in Sweden"
 shorttitle: "Civic Capital and COVID-19"
-date: 2024-01-29T10:55:30+02:00
-draft: false
+date: 2024-01-29
 status: 'Ongoing'
 subject: ['Inequality']
 authors:

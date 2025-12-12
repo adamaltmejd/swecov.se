@@ -1,8 +1,7 @@
 ---
 title: "Did COVID-19 have lasting effects on the spatial allocation of local services?"
 shorttitle: "Spatial Services Allocation"
-date: 2023-11-06T10:03:47+01:00
-draft: false
+date: 2023-11-06
 status: 'Ongoing'
 subject: ['Inequality']
 authors:

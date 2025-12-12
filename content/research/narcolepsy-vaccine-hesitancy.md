@@ -1,8 +1,6 @@
 ---
 title: "Medical scandals and vaccine hesitancy"
-shorttitle: "Narcolepsy and Vaccine Hesitancy"
-date: 2023-11-03T15:36:13+01:00
-draft: false
+date: 2023-11-03
 status: 'Ongoing'
 subject: ['Vaccination']
 authors:

@@ -1,8 +1,7 @@
 ---
 title: "How does unemployment insurance protect the families of workers who lose their jobs?"
 shorttitle: "Family spillovers of unemployment insurance"
-date: 2023-11-08T00:07:00+02:00
-draft: false
+date: 2023-11-08
 status: 'Ongoing'
 subject: ['Social Policy']
 authors:

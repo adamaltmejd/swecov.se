@@ -1,8 +1,7 @@
 ---
 title: "The effects of COVID-19 vaccination on cardiovascular outcomes: an analysis exploiting temporal variation in vaccination eligibility"
 shorttitle: "Vaccination and CVD"
-date: 2024-05-31T14:19:00+02:00
-draft: false
+date: 2024-05-31
 status: 'Ongoing'
 subject: ['Vaccination', 'Cardiovascular Disease']
 authors:

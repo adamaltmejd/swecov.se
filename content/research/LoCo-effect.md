@@ -1,8 +1,7 @@
 ---
 title: "The Lockdown Cohort -effect: The COVID-19 pandemic's effect on the socioeconomic composition of parents and social inequalities in perinatal health"
 shorttitle: "Lockdown Cohort Effect"
-date: 2024-05-31T14:14:00+02:00
-draft: false
+date: 2024-05-31
 status: 'Ongoing'
 subject: ['Inequality', 'Pregnancy']
 authors:

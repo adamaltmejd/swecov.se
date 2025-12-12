@@ -1,8 +1,7 @@
 ---
 title: "Explainable AI for Disease Outbreak Surveillance: Enhancing Transparency in Anomaly Detection Models"
 shorttitle: "Explainable AI for Pandemic Surveillance"
-date: 2025-05-28T00:20:00+02:00
-draft: false
+date: 2025-05-28
 status: 'Ongoing'
 subject: ['Artificial Intelligence', 'Surveillance']
 authors:

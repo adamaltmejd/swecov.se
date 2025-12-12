@@ -1,8 +1,7 @@
 ---
 title: "Did community testing protect vulnerable groups from severe COVID-19 outcomes? Evidence from Sweden during the first year of the pandemic."
 shorttitle: "Community Testing"
-date: 2024-12-17T00:07:00+02:00
-draft: false
+date: 2024-12-17
 status: 'Ongoing'
 subject: ['Testing']
 authors:

@@ -1,8 +1,6 @@
 ---
 title: "How did the COVID-19 pandemic affect learning disparities between immigrants and natives?"
-shorttitle: "Learning inequality migrants"
-date: 2024-02-05T15:56:00+02:00
-draft: false
+date: 2024-02-05
 status: 'Ongoing'
 subject: ['Inequality', 'Education']
 authors:

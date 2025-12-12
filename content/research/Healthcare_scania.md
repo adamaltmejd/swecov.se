@@ -1,8 +1,7 @@
 ---
 title: "Social inequalities in COVID-19 throughout the health care system: the case of Scania"
 shorttitle: "Health care inequalities in Scania"
-date: 2025-05-28T00:20:00+02:00
-draft: false
+date: 2025-05-28
 status: 'Ongoing'
 subject: ['Inequality']
 authors:

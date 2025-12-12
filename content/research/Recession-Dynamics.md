@@ -1,8 +1,7 @@
 ---
 title: "Sweden's COVID-19 Recession: How Foreign and Domestic Infections Struck against Firms and Workers"
 shorttitle: "Recession dynamics"
-date: 2022-12-02T17:35:29+01:00
-draft: false
+date: 2022-12-02
 status: 'Ongoing'
 subject: ['Firms', 'Social Policy']
 paper_url: https://docs.iza.org/dp15408.pdf

@@ -1,8 +1,6 @@
 ---
 title: "The Impact of the COVID-19 Pandemic on the Surgical Treatment of Colorectal Cancer Patients in Sweden"
-shorttitle: "COVID-19 and Colorectal Cancer Treatment"
-date: 2023-11-08T10:20:35+01:00
-draft: false
+date: 2023-11-08
 status: 'Ongoing'
 subject: ['Oncology']
 authors:

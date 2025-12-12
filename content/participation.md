@@ -1,6 +1,5 @@
 ---
 title: Join SWECOV
-draft: false
 ---
 
 If you wish to participate in the SWECOV project as a researcher, and study topics answering our broad research questions, please send us an application of no more than three pages. An application should typically cover work that will result in a single scientific paper. We discourage broad applications. If the research generates additional questions relevant to the project, we encourage additional applications. The project application template can be [downloaded here](https://www.dropbox.com/scl/fi/5l02yzy9tk2nrgnyvzxq6/swecov_application_template.docx?rlkey=mysd81zw1lbgq9lvjt2kzklj1&e=1&dl=0).

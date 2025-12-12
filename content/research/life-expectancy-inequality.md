@@ -1,8 +1,6 @@
 ---
 title: "Inequalities in mortality going in and out of the pandmic: The contribution of age and cause of death to changes in life expectancy by education during 2015-2022."
-shorttitle: "Inequalities in life expectancy"
-date: 2023-11-03T16:00:50+01:00
-draft: false
+date: 2023-11-03
 status: 'Ongoing'
 subject: ['Inequality', 'Education']
 authors:

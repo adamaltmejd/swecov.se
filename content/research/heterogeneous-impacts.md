@@ -1,8 +1,6 @@
 ---
 title: "Heterogeneous impacts of COVID-19 on incomes"
-shorttitle: "Heterogeneous impacts on incomes"
-date: 2023-11-08T12:49:06+01:00
-draft: false
+date: 2023-11-08
 status: 'Ongoing'
 subject: ['Inequality', 'Social Policy']
 authors:

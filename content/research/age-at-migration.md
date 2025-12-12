@@ -1,8 +1,6 @@
 ---
-title: at migration and COVID-19"
-shorttitle: "Age at Migration"
-date: 2023-11-06T10:02:53+01:00
-draft: false
+title: "Age at migration and COVID-19"
+date: 2023-11-06
 status: 'Ongoing'
 subject: ['Inequality', 'Migration']
 authors:

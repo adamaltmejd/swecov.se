@@ -1,8 +1,6 @@
 ---
 title: "Social inequalities in use of mental health care services among young persons during the different phases of the pandemic"
-shorttitle: "Youth mental health services"
-date: 2024-02-05T16:13:00+02:00
-draft: false
+date: 2024-02-05
 status: 'Ongoing'
 subject: ['Inequality', 'Mental Health']
 authors:

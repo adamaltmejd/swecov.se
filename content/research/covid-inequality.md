@@ -1,6 +1,5 @@
 ---
 title: "Inequality and COVID-19 in Sweden: Relative risks of nine bad life events, by four social gradients, in pandemic vs. prepandemic years"
-shorttitle: "Multidimensional inequality"
 status: 'Published'
 date: 2023-11-09
 subject: ['Inequality', 'Social policy']

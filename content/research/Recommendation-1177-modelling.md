@@ -1,8 +1,7 @@
 ---
 title: "A Data-Driven Modeling Framework for Evaluating Public Health Measures During Infectious Disease Outbreaks"
 shorttitle: "1177 Modelling"
-date: 2025-05-28T00:20:00+02:00
-draft: false
+date: 2025-05-28
 status: 'Ongoing'
 subject: ['Surveillance']
 authors:

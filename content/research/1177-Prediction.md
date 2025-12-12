@@ -1,8 +1,7 @@
 ---
 title: "Symptoms reported through the Swedish Healthcare Guide 1177 for disease surveillance and hospital predictions"
 shorttitle: "1177 Disease Surveillance"
-date: 2023-03-27T09:26:59+02:00
-draft: false
+date: 2023-03-27
 status: 'Ongoing'
 subject: ['Surveillance']
 paper_url: ''

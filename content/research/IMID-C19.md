@@ -1,8 +1,7 @@
 ---
 title: "The Impact of COVID-19 Vaccinations and COVID-19 infections on Immune-Mediated Inflammatory Diseases in Sweden"
 shorttitle: "IMID"
-date: 2024-12-17T00:33:00+02:00
-draft: false
+date: 2024-12-17
 status: 'Ongoing'
 subject: ['Vaccination']
 authors:

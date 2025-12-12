@@ -1,8 +1,6 @@
 ---
 title: "Effect of the SARS-CoV-2 pandemic on population frailty"
-shorttitle: "Surveillance of Population Frailty"
-date: 2024-02-05T15:59:00+02:00
-draft: false
+date: 2023-11-08
 status: 'Ongoing'
 subject: ['Surveillance']
 authors:

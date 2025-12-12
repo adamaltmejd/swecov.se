@@ -1,8 +1,7 @@
 ---
 title: "Exploring Pandemic-Era Inequalities in Pregnancy Outcomes: An Intersectional and Migration Perspective"
 shorttitle: "Inequality in Pregnancy Outcomes"
-date: 2025-09-22T00:00:00+02:00
-draft: false
+date: 2025-09-22
 status: 'Ongoing'
 subject: ['Inequality', 'Pregnancy', 'Migration']
 authors:

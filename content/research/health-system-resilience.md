@@ -1,9 +1,8 @@
 ---
 title: "Exploring Health System Resilience of Essential Health Services During COVID-19 in Sweden: A Cross-Regional Analysis within Socioeconomic Context"
 shorttitle: "Health System Resilience"
-date: 2025-10-02
-draft: false
 status: 'Published'
+date: 2025-10-02
 subject: ['Inequality']
 paper_url: 'https://doi.org/10.1186/s12913-025-13551-6'
 journal: 'BMC Health Services Research'

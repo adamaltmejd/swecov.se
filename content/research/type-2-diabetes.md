@@ -1,8 +1,6 @@
 ---
 title: "COVID-19 and type 2 diabetes incidence and severity across migration status"
-shorttitle: "Type 2 Diabetes"
-date: 2024-02-07T09:26:59+02:00
-draft: false
+date: 2024-02-07
 status: 'Ongoing'
 subject: ['Diabetes', 'Migration']
 authors:

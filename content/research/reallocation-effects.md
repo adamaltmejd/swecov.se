@@ -1,8 +1,7 @@
 ---
 title: "Did more generous unemployment insurance benefits contribute to worker reallocation during the COVID-19 pandemic?"
 shorttitle: "Unemployment Insurance Reallocation"
-date: 2023-11-08T00:07:00+02:00
-draft: false
+date: 2023-11-08
 status: 'Ongoing'
 subject: ['Social Policy']
 authors:

@@ -1,8 +1,7 @@
 ---
 title: "Do migrants have a mortality disadvantage in the care setting? Living arrangement and mortality among elderly migrants in Sweden before and during the COVID-19 pandemic"
 shorttitle: "Elderly Migrants Mortality"
-date: 2024-02-05T15:49:00+02:00
-draft: false
+date: 2024-02-05
 status: 'Ongoing'
 subject: ['Elderly care', 'Inequality', 'Migration']
 authors:

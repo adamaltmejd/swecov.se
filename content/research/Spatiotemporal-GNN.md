@@ -1,8 +1,7 @@
 ---
 title: "Spatiotemporal Machine Learning for Detection and Prediction of Infectious Diseases"
 shorttitle: "Spatiotemporal ML for disease modelling"
-date: 2025-05-28T00:20:00+02:00
-draft: false
+date: 2025-05-28
 status: 'Ongoing'
 subject: ['Artificial Intelligence', 'Surveillance']
 authors:

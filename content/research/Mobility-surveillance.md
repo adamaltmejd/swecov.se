@@ -1,8 +1,7 @@
 ---
 title: "Utility of real-world mobility data for surveillance of SARS-CoV-2 transmission during the first wave of the pandemic in Sweden"
 shorttitle: "Mobility Data Surveillance"
-date: 2024-02-05T16:03:00+02:00
-draft: false
+date: 2024-02-05
 status: 'Ongoing'
 subject: ['Surveillance']
 authors:

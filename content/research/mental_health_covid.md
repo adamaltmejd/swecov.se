@@ -1,8 +1,6 @@
 ---
 title: "Mental health of COVID-19 patients and their family members"
-shorttitle: "Family mental health"
-date: 2023-11-08T00:07:00+02:00
-draft: false
+date: 2023-11-08
 status: 'Ongoing'
 subject: ['Mental Health']
 authors:

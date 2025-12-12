@@ -1,8 +1,6 @@
 ---
 title: "Individual and aggregate consequences of Long-COVID"
-shorttitle: "Consequences of Long-COVID"
-date: 2023-06-01T07:00:59+02:00
-draft: false
+date: 2023-06-01
 status: 'Ongoing'
 subject: ['Social Policy', 'Long-COVID']
 authors:

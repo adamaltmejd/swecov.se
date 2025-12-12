@@ -1,6 +1,5 @@
 ---
 title: "The Odd One Out—Life and Death in Sweden During the COVID-19 Pandemic"
-shorttitle: "Odd One Out"
 status: 'Published'
 date: 2025-11-11
 subject: ['Inequality']
