@@ -24,7 +24,11 @@ authors:
     - 'Olof Östergren'
 ---
 
-The COVID-19 pandemic struck societies directly and indirectly, not just challenging population health but disrupting many aspects of life. Different effects of the spreading virus—and the measures to fight it—are reported and discussed in different scientific fora, with hard-to-compare methods and metrics from different traditions. While the pandemic struck some groups more than others, it is difficult to assess the comprehensive impact on social inequalities. This paper gauges social inequalities using individual-level administrative data for Sweden’s entire population. We describe and analyze the relative risks for different social groups in four dimensions—gender, education, income, and world region of birth—to experience three types of COVID-19 incidence, as well as six additional negative life outcomes that reflect general health, access to medical care, and economic strain. During the pandemic, the overall population faced severe morbidity and mortality from COVID-19 and saw higher all-cause mortality, income losses and unemployment risks, as well as reduced access to medical care. These burdens fell more heavily on individuals with low income or education and on immigrants. Although these vulnerable groups experienced larger absolute risks of suffering the direct and indirect consequences of the pandemic, the relative risks in pandemic years (2020 and 2021) were conspicuously similar to those in prepandemic years (2016 to 2019).
+The COVID-19 pandemic struck societies directly and indirectly, not just challenging population health but disrupting many aspects of life. Different effects of the spreading virus—and the measures to fight it—are reported and discussed in different scientific fora, with hard-to-compare methods and metrics from different traditions. While the pandemic struck some groups more than others, it is difficult to assess the comprehensive impact on social inequalities. This paper gauges social inequalities using individual-level administrative data for Sweden’s entire population.
+
+<!--more-->
+
+We describe and analyze the relative risks for different social groups in four dimensions—gender, education, income, and world region of birth—to experience three types of COVID-19 incidence, as well as six additional negative life outcomes that reflect general health, access to medical care, and economic strain. During the pandemic, the overall population faced severe morbidity and mortality from COVID-19 and saw higher all-cause mortality, income losses and unemployment risks, as well as reduced access to medical care. These burdens fell more heavily on individuals with low income or education and on immigrants. Although these vulnerable groups experienced larger absolute risks of suffering the direct and indirect consequences of the pandemic, the relative risks in pandemic years (2020 and 2021) were conspicuously similar to those in prepandemic years (2016 to 2019).
 ```
 
 - `title` is the title of the study (required)
@@ -35,6 +39,8 @@ The COVID-19 pandemic struck societies directly and indirectly, not just challen
 - `paper_url` is the url to the published paper or preprint (optional)
 - `journal` is the journal where the paper was published (optional)
 - `authors` is a list of all authors, in the order they appear on the paper, note syntax (required)
+
+Also note the `<!--moore-->` tag. This indicates where the summary ends and the full article continues. Only text above the tag will be visible in the research list.
 
 ## Testing
 During local development, make sure you have the depencies installed locally and remove the comments before the "replace" directives in `go.mod`. This will link the local modules for development.
