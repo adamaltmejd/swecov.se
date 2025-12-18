@@ -1,6 +1,6 @@
 ---
 title: "A Data-Driven Modeling Framework for Evaluating Public Health Measures During Infectious Disease Outbreaks"
-shorttitle: "1177 Modelling"
+shorttitle: "Evaluation of the 1177 Hotline for Disseminating Public Health Recommendations"
 date: 2025-05-28
 status: 'Ongoing'
 subject: ['Surveillance']
