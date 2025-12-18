@@ -1,5 +1,6 @@
 ---
 title: "Socio-economic differences in Type-1-Diabetes incidence trends during the COVID-19 pandemic"
+shorttitle: "Inequalities in type-1-diabetes trends during the pandemic"
 date: 2024-12-17
 status: 'Ongoing'
 subject: ['Inequality', 'Diabetes']
