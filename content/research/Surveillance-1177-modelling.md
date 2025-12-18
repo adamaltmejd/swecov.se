@@ -1,6 +1,6 @@
 ---
 title: "Integrating Individual-level Syndromic Surveillance Data in Infectious Disease Modelling: A Framework for Identifying Undetected Infections"
-shorttitle: "1177 Surveillance Modelling"
+shorttitle: "Integrating Syndromic Data in Infectious Disease Modelling"
 date: 2025-05-28
 status: 'Ongoing'
 subject: ['Surveillance']
