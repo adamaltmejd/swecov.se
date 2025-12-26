@@ -1,5 +1,6 @@
 ---
 title: "Mental health of COVID-19 patients and their family members"
+shorttitle: "Patients and Families’ Mental Health"
 date: 2023-11-08
 status: 'Ongoing'
 subject: ['Mental Health']
