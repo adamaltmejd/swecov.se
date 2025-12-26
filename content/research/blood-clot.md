@@ -1,5 +1,6 @@
 ---
 title: "The Costs of Narratives in Public Health: How Inaccurate Information Shapes Vaccine Hesitancy"
+shorttitle: "Narratives and Vaccine Hesitancy"
 date: 2025-05-28
 status: 'Ongoing'
 subject: ['Vaccination']
