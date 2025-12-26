@@ -1,5 +1,6 @@
 ---
 title: "COVID-19 Mortality and the Structural Characteristics of Long-Term Care Facilities: Evidence from Sweden"
+shorttitle: "Long-Term Care Mortality"
 shorttitle: "COVID-19 Mortality and the Structural Characteristics of Long-Term Care Facilities"
 status: 'Published'
 date: 2024-01-08
