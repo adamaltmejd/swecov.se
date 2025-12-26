@@ -1,5 +1,6 @@
 ---
 title: "COVID-19 and type 2 diabetes incidence and severity across migration status"
+shorttitle: "Diabetes Severity Across Populations"
 date: 2024-02-07
 status: 'Ongoing'
 subject: ['Diabetes', 'Migration']
@@ -10,6 +11,8 @@ authors:
 ---
 
 Type 2 diabetes (T2D) is a severe chronic disease affecting 6% in the general population and approximately 12% in people originating from non-western regions. Today every fifth person in Sweden is born abroad and non-western immigrants represents the largest immigrant groups.
+
+<!--more-->
 
 T2D contributes to increased risk of morbidity and complications affecting the cardiovascular (macro- and microvascular system) and nervous system and is one of the main contributors to cardiovascular morbidity and mortality. Studies in the US, Canada, Germany and UK have shown increased incidence in T2D following COVID-19. However, nationwide data from other European countries are missing and contributing mechanism are still unknown.
 
