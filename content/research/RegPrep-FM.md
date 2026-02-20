@@ -3,7 +3,7 @@ title: "Foundation Models on Nationwide Registers for Pandemic Preparedness"
 shorttitle: "Foundation Models"
 date: 2026-02-19
 status: 'Ongoing'
-subject: ['Artificial Intelligence', 'Education']
+subject: ['Artificial Intelligence']
 authors:
   - 'Thomas Eriksson'
   - 'Dominik Dietler'
