@@ -3,7 +3,7 @@ title: "Individual and neighborhood level inequalities in the provision of elder
 shorttitle: "Elderly care"
 date: 2026-02-21
 status: 'Ongoing'
-subject: ['Elderly care, 'Inequality']
+subject: ['Elderly care', 'Inequality']
 authors:
   - 'Dominik Dietler'
   - 'Jonas Björk'
