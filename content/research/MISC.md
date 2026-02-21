@@ -3,7 +3,7 @@ title: "Multisystem inflammatory syndrome in children – the study on risk fact
 shorttitle: "MISC"
 date: 2026-02-21
 status: 'Ongoing'
-subject: ['Children', 'Risk factors', 'Inequality']
+subject: ['Inequality']
 authors:
   - 'Petra Król'
   - 'Fredrik Kahn'
