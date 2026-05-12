@@ -3,7 +3,7 @@ title: "Earnings-Linked Incentives and Moral Hazard in Sickness Insurance: The E
 shorttitle: "First day sick leave"
 date: 2026-05-12
 status: 'Ongoing'
-subject: ['Social policy'], ['Inequality']
+subject: ['Social policy', 'Inequality']
 authors:
   - 'Thomas Crol'
 ---
