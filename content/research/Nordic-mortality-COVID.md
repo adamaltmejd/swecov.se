@@ -3,7 +3,7 @@ title: "Attributable fractions of mortality before, during and after the COVID-1
 shorttitle: "Nordic mortality COVID"
 date: 2026-05-12
 status: 'Ongoing'
-subject: ['Inequality'] ['Social policy ']
+subject: ['Inequality','Social policy ']
 authors:
   - 'Andrea Dunlavy '
   - 'Lisa Bornscheuer'
